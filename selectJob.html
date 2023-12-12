@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="projectLoad" >
+	<head>
+		<meta charset="utf-8" />
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<title>Endicott Projects </title>
+		<meta name="description" content="Face brick, Thin brick, Pavers, and tile from Endicott Clay Products are the choice of top architects. Choose from our Face Brick, Thin Brick, Pavers, Tile. " />
+		<meta name="google-site-verification" content="PemXSIP_8nXP8tbIgt8LYTXIDJlbQtAhdT-FEWh2zJ8" />
+		<meta name="keywords" content="Brick, Face Brick, Endicott, architect, Thin Brick, Pavers, Tile " />
+		<meta name="robots" content="index, follow" />
+		<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/endicottFonts.css" />
+		<link type="text/css" rel="stylesheet" href="css/menu.v1.css" />
+		<script type="text/javascript" src="js/menu.v2.js"></script>
+		<script type="text/javascript" src="js/angular.min.js"></script>
+		<script type="text/javascript" src="js/angular-filter-master/dist/angular-filter.min.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/projectsV2.css" />
+		<script type="text/javascript" src="js/selectJob.js"></script>
+		<style>
+			.bottomText{
+				text-align:center;
+				font-size: 1.1em;
+			}
+			.color{
+				cursor:pointer;
+			}
+			#nav{
+				z-index: 1;
+			}
+			
+			
+		</style>
+		
+	</head>
+	<body ng-controller="projectCtrl"  >
+		<div id="holding_main">
+				<div id="mainHolder" >
+			<div id="leftArrow"><p ng-click='advancement("leftArrow")'>&#60;&#60;</p></div>
+			<div id="rightArrow"><p ng-click='advancement("rightArrow")'>&#62;&#62;</p></div>
+			<div id="mainImg" run>
+				<img width="1000px" height="500px" ng-repeat="picLoad in jobTitle.photoAlbum" ng-src="{{picLoad}}"  run   />
+			</div>
+			<div id="copyHolder" >
+				<h1 id="copyHeader" ng-cloak>{{jobTitle.jobName | uppercase}}</h1>				
+				<table id="info" align="center">
+					<tr ><td><table><tr ng-if='jobTitle.products.product1.color'><td class="tdTitle"   >Color:</td><td class="color"><span ng-repeat="prodVal in jobTitle.products | unique:'color'" ng-click="kaboom(jobTitle.productName,prodVal.colorSafe)" >{{prodVal.color}}{{$last ? '' : ', '}}</span></td></tr>
+					<tr ng-if='jobTitle.products.product1.size'><td class="tdTitle">Size: </td><td class="size"><span ng-repeat="prodVal in jobTitle.products | unique:'size'" >{{prodVal.size}}{{$last ? '' : ', '}}</span></td></tr>
+					<tr ng-if='jobTitle.stateShort' || ng-if='jobTitle.city'><td class="tdTitle">Location:</td><td class="loc">{{jobTitle.city}}, {{jobTitle.stateShort}}</td></tr>
+					<tr ng-if='jobTitle.architect1'><td class="tdTitle">Architect: </td><td class="architect"><span>{{jobTitle.architect1}}</span></td></tr>
+					</table></td></tr>
+					
+				</table>
+				</div>
+			<div id="preload">
+			</div>
+			
+		</div>
+		</div>
+
+		<div id="copyright">Copywrite Endicott Clay Products Company</div>
+		
+   		
+	</body>
+	<script type="text/javascript">
+		
+	</script>
+</html>

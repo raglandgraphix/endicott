@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endicott Face Brick Landing Page</title>
+    <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    
+    <style>
+        #navbarDrop{
+            
+            text-align: right;
+        }
+        ##navbarDrop ul{
+
+        }
+        nav{
+            height: 100px;
+           
+        }
+        #logo{
+            height: 50%;
+            margin-top: 25px;
+            margin-left: 25px;           
+        }
+        #videoHold{
+            width: 100vw;
+            height:auto;
+            padding: 0px;
+            
+        }
+        #videoHold video{
+            width: 100vw;
+           
+            box-shadow: 5px 5px 5px;
+           
+        }
+        .bg-lightGrey{
+            background-color: #ececec;
+        }
+        
+        
+    </style>
+</head>
+<body>
+    <!--Start of navbar-->
+    <nav class="navbar navbar-expand-md navbar-light fixed-top">        
+        <img id="logo" class="img-fluid " src="../../assets/endicottLogo.png" />
+        <button class="navbar-toggler mt-4" type="button" aria-controls="navbarDrop" data-toggle="collapse" data-target="#navbarDrop" >
+            <span class="navbar-toggler-icon"></span>
+            </button>
+        <div class="collapse navbar-collapse justify-content-end  mr-2" id="navbarDrop" >
+            <ul class="navbar-nav mt-md-5">
+                <li class="nav-item"><a class="nav-link" href="/">ENDICOTT </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"> LEARN MORE</a>
+                </li>
+            </ul>
+        </div>    
+
+    </nav>
+   
+    <!--Start my page here-->
+    <div class="main container-fluid">
+        <div class="row">
+            <div id="videoHold" class="col-12 ">
+                <video id="mainVideo" muted loop autoplay >
+                    <source src="assets/Videos/peabody.mp4">
+                </video>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-12 text-center">
+                <h1 class="text-uppercase">Peabody Walk Lofts</h1>
+                <h4>Ravenswood Ironspot by Endicott</h4>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-12">
+                <p class="pl-5 pr-5">Turning 14 lots into 1, the Peabody Walk Lofts in the historic, Charles village neighborhood is transforming the area into an exciting place for families to enjoy a large array of social events, while living in a safe clean apartment. Boasting 3 stories, 22 leased living units, and 22 parking spaces, the Peabody Walk Lofts adds class to the surrounding homes and businesses. Quickly booking up all the available units in a short time, this multiple family housing project has captured the eye of many, as an upper scale place to live. The quality of this project has inspired more renewed projects in the surrounding neighborhood. Brick is at the heart of the area and was carefully chosen to keep the same feel as the rest of the structures. Old and new. The color shifting brick gives the exterior a fresh look depending upon the lighting and angle the building is viewed from. Colors of black, gunmetal, silver, and indigo are but only a few of the words used to describe the brick color. The brick was chosen because it has modern and modular characteristics, giving Peabody Walk Lofts a contemporary vernacular. Form, availability, special shapes, and the fact that the brick was a uniform color through the brick allowed the architects to execute the high level of detail and precision in the design. This with high-quality masonry craftsmanship gives the building its unique look, by using unique bond pattern to create the dental work that laces the top edge of the building, make Peabody Walk Lofts stand out while conforming to the area.</p>
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="card col-12 col-md-5 ml-2 text-center">
+                <img class="img-fluid mt-2" src="assets/faceBrick/ravenswoodIronspot/ravenswoodvelfbLarge.jpg"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Ravenswood Ironspot</h4>
+                   
+                        <p class="text-left">One of Endicott's top sellers, the black brick with high sheen is a show stopper.</p>
+                    
+                    
+                    <h5 class="text-center">See More of Ravenswood Ironspot</h5>
+                    <a href="#" class="btn bg-lightGrey justify-content-center">Ravenswood Ironspot</a>
+                </div>
+
+            </div>
+            
+        </div>
+       
+        <div class="row">
+            <div class="col-12 text-center mt-5 mb-5">
+                <h5>Request More Information</h5>
+                <a href="#" class="btn bg-info">Information</a>
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="card col-12 col-md-5 ml-2 text-center">
+                <img class="img-fluid" src="assets/thinBrick/Sizes/modularThinBrick.png"/>
+
+            </div>
+        </div>
+    </div>
+    <script>
+        $("#mainVideo").on('timeupdate',function(){
+            
+            const videoTime = $("#mainVideo").prop('currentTime');
+            
+            if(videoTime>=24.25 && videoTime<36.5 ){
+                $("nav").removeClass('navbar-light').addClass('navbar-dark');
+                
+            }else if(videoTime>=36.25){
+                console.log('end');
+                $("nav").removeClass('navbar-dark').addClass('navbar-light');
+            }
+        });
+    </script>
+    
+</body>
+</html>

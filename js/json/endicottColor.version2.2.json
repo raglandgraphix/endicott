@@ -1,0 +1,4230 @@
+{"faceBrick":{
+"productLine":"Face Brick",
+"desertLight":{
+			"productName":"Face Brick",
+			"colorName":"Desert Ironspot Light",
+			"colorSafe":"desertLight",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"colorProjects":"assets/faceBrick/fortMeyersLib/ftMeyersLib1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705890590?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/77_and_dil_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/desertIronspotLight/desertIronspotLightsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/desertIronspotLight/desertIronspotLightsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotLight/desertIronspotLightsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"../../assets/faceBrick/desertIronspotLight/desertIronspotLightVelfbThumb.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotLight/desertIronspotLightVelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/desertIronspotLight/desertIronspotLightmatfbThumb.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotLight/desertIronspotLightmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/desertIronspotLight/desertIronspotLightvlvfbThumb.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotLight/desertIronspotLightvlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/desertIronspotLight/desertIronspotLightverfbThumb.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotLight/desertIronspotLightverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"desertDark":{
+			"productName":"Face Brick",
+			"colorName":"Desert Ironspot Dark",
+			"colorSafe":"desertDark",
+			"colorRange":"Ironspots",
+			"rangePlacement":2,
+			"colorVideo":"https://player.vimeo.com/video/705893837?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/coppertone_desert_dark_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/desertIronspotDark/desertissmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/desertIronspotDark/desertissmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotDark/desertissmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/desertIronspotDark/desertisdvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotDark/desertisdvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/desertIronspotDark/desertisdmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotDark/desertisdmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"../../assets/faceBrick/desertIronspotDark/desertisdvlvfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotDark/desertisdvlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/desertIronspotDark/desertisdverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/desertIronspotDark/desertisdverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"copperCanyon":{
+			"productName":"Face Brick",
+			"colorName":"Copper Canyon",
+			"colorSafe":"copperCanyon",
+			"colorRange":"Ironspots",
+			"rangePlacement":3,
+			"colorVideo":"https://player.vimeo.com/video/705893424?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/copper_canyon_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/copperCanyon/copperCanyonsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/copperCanyon/copperCanyonsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/copperCanyon/copperCanyonsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/copperCanyon/copperCanyonVelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/copperCanyon/copperCanyonVelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":5
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/copperCanyon/copperCanyonsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":6
+			}
+}
+},
+"coppertone":{
+			"productName":"Face Brick",
+			"colorName":"Coppertone",
+			"colorSafe":"coppertone",
+			"colorRange":"Ironspots",
+			"rangePlacement":4,
+			"colorProjects":"assets/faceBrick/waterfront/waterfront1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705893837?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/coppertone_desert_dark_short.mp4",		
+			"texture":{
+			"mainThumb":"assets/faceBrick/coppertone/coppertonesmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/coppertone/coppertonesmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/coppertone/coppertonesmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/coppertone/coppertonevelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/coppertone/coppertonevelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/coppertone/coppertonematfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/coppertone/coppertonematfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/coppertone/coppertonesmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/coppertone/coppertonesmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/coppertone/coppertoneverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/coppertone/coppertoneverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/faceBrick/coppertone/coppertonesmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/coppertone/coppertonesmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":6
+			}
+}
+},
+"medIS77":{
+			"productName":"Face Brick",
+			"colorName":"Medium Ironspot #77",
+			"colorSafe":"medIS77",
+			"colorRange":"Ironspots",
+			"rangePlacement":5,
+			"colorProjects":"assets/faceBrick/unfBio/unfBio2.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705890590?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/77_and_dil_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77smofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77smofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot77/mediumIronspot77smofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77velfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot77/mediumIronspot77velfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\"Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77matfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot77/mediumIronspot77matfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77vlvfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot77/mediumIronspot77vlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77verfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot77/mediumIronspot77verfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77artfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot77/mediumIronspot77artfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":6
+			}
+}
+},
+"medIS46":{
+			"productName":"Face Brick",
+			"colorName":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"colorRange":"Ironspots",
+			"rangePlacement":6,
+			"colorProjects":"assets/faceBrick/bruceCBolling/bolling2.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705887299?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/medium_46_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/mediumIronspot46/mis46smofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot46/mis46smofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot46/mis46smofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot46/mediumIronspot46velfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot46/mediumIronspot46velfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot46/mis46matfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot46/mis46matfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot46/mis46vlvfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot46/mis46vlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot46/mediumIronspot46verfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot46/mediumIronspot46verfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/faceBrick/mediumIronspot46/mediumIronspot46artfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/mediumIronspot46/mediumIronspot46artfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":6
+			}
+}
+},
+"darkIronspot":{
+			"productName":"Face Brick",
+			"colorName":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"colorRange":"Ironspots",
+			"rangePlacement":7,
+			"colorProjects":"assets/faceBrick/stMary/stMary1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705890000?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/dark_ironspot_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/darkIronspot/darkIronspotsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/darkIronspot/darkIronspotsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/darkIronspot/darkIronspotsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/darkIronspot/darkIronspotvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/darkIronspot/darkIronspotvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb6Thru","fb8Thru","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/darkIronspot/darkIronspotvlvfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/darkIronspot/darkIronspotvlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/darkIronspot/darkIronspotverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/darkIronspot/darkIronspotverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/faceBrick/darkIronspot/darkIronspotartfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/darkIronspot/darkIronspotartfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":6
+			}
+}
+},
+"ravenswood":{
+			"productName":"Face Brick",
+			"colorName":"Ravenswood Ironspot",
+			"colorSafe":"ravenswood",
+			"colorRange":"Ironspots",
+			"rangePlacement":8,
+			"colorProjects":"assets/faceBrick/peabody/peabody1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705893086?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/ravenswood_ironspot_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/ravenswood/ravenswoodvelfbMedium.jpg",
+			"mainTexture":"velour",
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/ravenswood/ravenswoodvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/ravenswood/ravenswoodvelfbLarge.jpg",
+				"availableSizes":["fbMod"],
+				"availableSizesFull":["Modular"],
+				"placement":1
+			}
+	}
+},
+"manganese":{
+			"productName":"Face Brick",
+			"colorName":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"colorRange":"Ironspots",
+			"rangePlacement":9,
+			"colorProjects":"assets/faceBrick/debruce/debruce1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/700570829?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/endicott_manganese_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/manganeseIs/manganeseIronspotsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/manganeseIs/manganeseIronspotsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseIs/manganeseIronspotsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/manganeseIs/manganeseIronspotvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseIs/manganeseIronspotvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/manganeseIs/manganeseIronspotmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseIs/manganeseIronspotmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/manganeseIs/manganeseIronspotvlvfbLarge.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseIs/manganeseIronspotvlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/manganeseIs/manganeseIronspotverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseIs/manganeseIronspotverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/faceBrick/manganeseIs/manganeseIronspotartfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseIs/manganeseIronspotartfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":6
+			}
+}
+},
+"sienna":{
+			"productName":"Face Brick",
+			"colorName":"Sienna Ironspot",
+			"colorSafe":"sienna",
+			"colorRange":"Ironspots",
+			"rangePlacement":10,
+			"colorProjects":"assets/faceBrick/knolls/knolls1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705892129?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/sienna_ironspot_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/siennaIronspot/siennaIronspotvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/siennaIronspot/siennaIronspotvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/siennaIronspot/siennaIronspotsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			}
+}
+},
+"executive":{
+			"productName":"Face Brick",
+			"colorName":"Executive Ironspot",
+			"colorSafe":"executive",
+			"colorRange":"Ironspots",
+			"rangePlacement":11,
+			"texture":{
+			"mainThumb":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/executiveIronspot/executiveIronspotvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/executiveIronspot/executiveIronspotvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/executiveIronspot/executiveIronspotsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			}
+}
+},
+"heritage46":{
+			"productName":"Face Brick",
+			"colorName":"Heritage 46",
+			"colorSafe":"heritage46",
+			"colorRange":"Ironspots",
+			"rangePlacement":12,
+			"texture":{
+			"mainThumb":"assets/faceBrick/heritage46/heritage46herfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/heritage46/heritage46herfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/heritage46/heritage46herfbLarge.jpg",
+				"availableSizes":["fbMod","fbSKing","fbKing"],
+				"availableSizesFull":["Modular","Slim Kings","Kingsize"],
+				"placement":2
+			}
+}
+},
+"heritage46NY":{
+			"productName":"Face Brick",
+			"colorName":"Heritage 46 No Yellow",
+			"colorSafe":"heritage46NY",
+			"colorRange":"Ironspots",
+			"rangePlacement":13,
+			"texture":{
+			"mainThumb":"assets/faceBrick/heritage46NoYellow/heritage46nyherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/heritage46NoYellow/heritage46nyherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/heritage46NoYellow/heritage46nyherfbLarge.jpg",
+				"availableSizes":["fbMod","fbSKing","fbKing"],
+				"availableSizesFull":["Modular","Slim Kings","Kingsize"],
+				"placement":1
+			}
+}
+},
+"roseBlend":{
+			"productName":"Face Brick",
+			"colorName":"Rose Blend",
+			"colorSafe":"roseBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":14,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/roseBlend/roseBlendsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/roseBlend/roseBlendsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/roseBlend/roseBlendsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/roseBlend/roseBlendvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/roseBlend/roseBlendvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/roseBlend/roseBlendmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/roseBlend/roseBlendmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/roseBlend/roseBlendsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/roseBlend/roseBlendsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/roseBlend/roseBlendverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/roseBlend/roseBlendverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"redBlend":{
+			"productName":"Face Brick",
+			"colorName":"Red Blend",
+			"colorSafe":"redBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":15,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/redBlend/redBlendsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/redBlend/redBlendsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/redBlend/redBlendvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/redBlend/redBlendmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/redBlend/redBlendsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/redBlend/redBlendverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"burgundyBlend":{
+			"productName":"Face Brick",
+			"colorName":"Burgundy Blend",
+			"colorSafe":"burgundyBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":16,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/burgundyBlend/burgundyBlendsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/burgundyBlend/burgundyBlendsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/burgundyBlend/burgundyBlendsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/burgundyBlend/burgundyBlendvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/burgundyBlend/burgundyBlendmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/burgundyBlend/burgundyBlendsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/burgundyBlend/burgundyBlendsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"rubyRed":{
+			"productName":"Face Brick",
+			"colorName":"Ruby Red",
+			"colorSafe":"rubyRed",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":17,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/rubyRed/rubyRedsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/rubyRed/rubyRedsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redBlend/redBlendsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/rubyRed/rubyRedvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/rubyRed/rubyRedvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/rubyRed/rubyRedsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/rubyRed/rubyRedsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/rubyRed/rubyRedsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/rubyRed/rubyRedsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/rubyRed/rubyRedsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/rubyRed/rubyRedsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":5
+			}
+}
+},
+"bordeauxBlend":{
+			"productName":"Face Brick",
+			"colorName":"Bordeaux Blend",
+			"colorSafe":"bordeauxBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":18,
+			"texture":{
+			"mainThumb":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/bordeauxBlend/bordeauxBlendvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/bordeauxBlend/bordeauxBlendvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/bordeauxBlend/bordeauxBlendsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			}
+}
+},
+"redIronspot":{
+			"productName":"Face Brick",
+			"colorName":"Red Ironspot",
+			"colorSafe":"redIronspot",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":19,
+			"texture":{
+			"mainThumb":"assets/faceBrick/redIronspot/redIronspotsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/redIronspot/redIronspotsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redIronspot/redIronspotsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/redIronspot/redIronspotvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/redIronspot/redIronspotvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			}
+}
+},
+"goldenBuff":{
+			"productName":"Face Brick",
+			"colorName":"Golden Buff",
+			"colorSafe":"goldenBuff",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":22,
+			"texture":{
+			"mainThumb":"assets/faceBrick/goldenBuff/goldenBuffsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/goldenBuff/goldenBuffsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/goldenBuff/goldenBuffsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/goldenBuff/goldenBuffvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/goldenBuff/goldenBuffvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/goldenBuff/goldenBuffmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/goldenBuff/goldenBuffmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"velvetex":{
+				"textureName":"Velvetex",
+				"textureImageThumb":"assets/faceBrick/goldenBuff/goldenBuffvlvfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/goldenBuff/goldenBuffvlvfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":4
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/goldenBuff/goldenBuffverfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/goldenBuff/goldenBuffverfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"lightGreyBlend":{
+			"productName":"Face Brick",
+			"colorName":"Light Gray Blend",
+			"colorSafe":"lightGreyBlend",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":21,
+			"texture":{
+			"mainThumb":"assets/faceBrick/lightGrey/lightGreyvelfbMedium.jpg",
+			"mainTexture":"velour",
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/lightGrey/lightGreyvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/lightGrey/lightGreyvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/lightGrey/lightGreyvelfbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/lightGrey/lightGreyvelfbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":2
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/lightGrey/lightGreyvelfbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/lightGrey/lightGreyvelfbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			}
+}
+},
+"greyBlend":{
+			"productName":"Face Brick",
+			"colorName":"Gray Blend",
+			"colorSafe":"greyBlend",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":23,
+			"texture":{
+			"mainThumb":"assets/faceBrick/greyBlend/greyBlendsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/greyBlend/greyBlendsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/greyBlend/greyBlendsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/greyBlend/greyBlendvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/greyBlend/greyBlendvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/faceBrick/greyBlend/greyBlendmatfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/greyBlend/greyBlendmatfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/faceBrick/greyBlend/greyBlendsmofbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/greyBlend/greyBlendsmofbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"lightSandstone":{
+			"productName":"Face Brick",
+			"colorName":"Sandstone Light",
+			"colorSafe":"lightSandstone",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":24,
+			"colorProjects":"assets/multiProd/nesbit/nesbit1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705894335?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/light_sandstone_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/sandStoneLight/sandStoneLightsmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/sandStoneLight/sandStoneLightsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/sandStoneLight/sandStoneLightsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/sandStoneLight/sandStoneLightvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/sandStoneLight/sandStoneLightvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageMain":"assets/faceBrick/sandStoneLight/sandStoneLightvelfbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/sandStoneLight/sandStoneLightvelfbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageMain":"assets/faceBrick/sandStoneLight/sandStoneLightvelfbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/sandStoneLight/sandStoneLightvelfbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":5
+			}
+}
+},
+"darkSandstone":{
+			"productName":"Face Brick",
+			"colorName":"Sandstone Dark",
+			"colorSafe":"darkSandstone",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":25,
+			"colorProjects":"assets/multiProd/nesbit/nesbit1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705892685?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/dark_sandstone_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/sandStoneDark/darkSandStonesmofbMedium.jpg",
+			"mainTexture":"velour",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/sandStoneDark/darkSandStonesmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/sandStoneDark/darkSandStonesmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/sandStoneDark/darkSandStonevelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/sandStoneDark/darkSandStonevelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility"],
+				"placement":1
+			}
+}
+},
+"manganeseBrown":{
+			"productName":"Face Brick",
+			"colorName":"Graphite",
+			"colorSafe":"manganeseBrown",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":26,
+			"texture":{
+			"mainThumb":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbMedium.jpg",
+			"mainTexture":"velour",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/manganeseBrown/manganeseBrownsmofbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseBrown/manganeseBrownsmofbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbLarge.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fb214Merid","fbMerid","fb6Thru","fb8Thru","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","2-1/4\" Meridian","Meridian","6\"Thru-Wall","8\"Thru-Wall","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageMain":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageMain":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbLargeNA.jpg",
+				"textureImageMain":"assets/faceBrick/manganeseBrown/manganeseBrownvelfbLargeNA.jpg",
+				"availableSizes":["fbRom","fbMod","fbNorm","fbSKing","fbKing","fbEMod","fbEKing","fbENorm","fbClose","fb3Util","fbUtil","fbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize","Norwegian","Closure","3\" Utility","Utility","Triple"],
+				"placement":5
+			}
+}
+},
+"greyHeritage":{
+			"productName":"Face Brick",
+			"colorName":"Gray Heritage",
+			"colorSafe":"greyHeritage",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":28,
+			"texture":{
+			"mainThumb":"assets/faceBrick/heritageGrey/heritageGreyherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/heritageGrey/heritageGreyherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/heritageGrey/heritageGreyherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing"],
+				"availableSizesFull":["Modular","Kingsize"],
+				"placement":1
+			}
+}
+},
+"orleansSands":{
+			"productName":"Face Brick",
+			"colorName":"Orleans Sands",
+			"colorSafe":"orleansSands",
+			"colorRange":"Sands",
+			"rangePlacement":29,
+			"texture":{
+			"mainThumb":"assets/faceBrick/orleansSands/orleansSandsherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/orleansSands/orleansSandsherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/orleansSands/orleansSandsherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing"],
+				"availableSizesFull":["Modular","Kingsize"],
+				"placement":1
+			}
+}
+},
+"greySands":{
+			"productName":"Face Brick",
+			"colorName":"Gray Sands",
+			"colorSafe":"greySands",
+			"colorRange":"Sands",
+			"rangePlacement":30,
+			"texture":{
+			"mainThumb":"assets/faceBrick/greySands/greySandssqefbMedium.jpg",
+			"mainTexture":"sqEdNoTx",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/greySands/greySandsherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/greySands/greySandsherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing"],
+				"availableSizesFull":["Modular","Kingsize"],
+				"placement":1
+			},
+			"antique":{
+				"textureName":"Antique",
+				"textureImageThumb":"assets/faceBrick/greySands/greySandsantfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/greySands/greySandsantfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing"],
+				"availableSizesFull":["Modular","Kingsize"],
+				"placement":1
+			},
+			"sqEdNoTx":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/faceBrick/greySands/greySandssqefbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/greySands/greySandssqefbLarge.jpg",
+				"availableSizes":["fbMod","fbKing"],
+				"availableSizesFull":["Modular","Kingsize"],
+				"placement":1
+			}
+
+}
+},
+"adobeSands":{
+			"productName":"Face Brick",
+			"colorName":"Adobe Sands",
+			"colorSafe":"adobeSands",
+			"colorRange":"Sands",
+			"rangePlacement":31,
+			"texture":{
+			"mainThumb":"assets/faceBrick/adobeSands/adobeSandsherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/adobeSands/adobeSandsherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/adobeSands/adobeSandsherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing"],
+				"availableSizesFull":["Modular","Kingsize"],
+				"placement":1
+			}
+}
+},
+"burgundySands":{
+			"productName":"Face Brick",
+			"colorName":"Burgundy Sands",
+			"colorSafe":"burgundySands",
+			"colorRange":"Sands",
+			"rangePlacement":32,
+			"texture":{
+			"mainThumb":"assets/faceBrick/burgundySands/burgundySandsherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/burgundySands/burgundySandsherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/burgundySands/burgundySandsherfbLarge.jpg",
+				"availableSizes":["fbMod","fbSKing","fbKing","fbEMod","fbEKing"],
+				"availableSizesFull":["Modular","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize"],
+				"placement":1
+			},
+			"sqEdNoTx":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/faceBrick/burgundySands/burgundySandssqefbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/burgundySands/burgundySandssqefbLarge.jpg",
+				"availableSizes":["fbMod","fbSKing","fbKing","fbEMod","fbEKing"],
+				"availableSizesFull":["Modular","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize"],
+				"placement":2
+			}
+}
+},
+"merlotSands":{
+			"productName":"Face Brick",
+			"colorName":"Merlot Sands",
+			"colorSafe":"merlotSands",
+			"colorRange":"Sands",
+			"rangePlacement":33,
+			"texture":{
+			"mainThumb":"assets/faceBrick/merlotSands/merlotSandsantfbMedium.jpg",
+			"mainTexture":"antique",
+			"antique":{
+				"textureName":"Antique",
+				"textureImageThumb":"assets/faceBrick/merlotSands/merlotSandsantfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/merlotSands/merlotSandsantfbLarge.jpg",
+				"availableSizes":["fbMod","fbSKing","fbKing","fbEMod","fbEKing"],
+				"availableSizesFull":["Modular","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize"],
+				"placement":1
+			},
+			"sqEdNoTx":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/faceBrick/merlotSands/merlotSandssqefbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/merlotSands/merlotSandssqefbLarge.jpg",
+				"availableSizes":["fbMod","fbSKing","fbKing","fbEMod","fbEKing"],
+				"availableSizesFull":["Modular","Slim Kings","Kingsize","Engineer Modular","Engineer Kingsize"],
+				"placement":1
+			}
+}
+},
+"copperSands":{
+			"productName":"Face Brick",
+			"colorName":"Copper Sands",
+			"colorSafe":"copperSands",
+			"colorRange":"Sands",
+			"rangePlacement":35,
+			"texture":{
+			"mainThumb":"assets/faceBrick/copperSands/copperSandsherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/copperSands/copperSandsherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/copperSands/copperSandsherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing","fbEKing"],
+				"availableSizesFull":["Modular","Kingsize","Engineer Kingsize"],
+				"placement":1
+			}
+}
+},
+"autumnSands":{
+			"productName":"Face Brick",
+			"colorName":"Autumn Sands",
+			"colorSafe":"autumnSands",
+			"colorRange":"Sands",
+			"rangePlacement":36,
+			"texture":{
+			"mainThumb":"assets/faceBrick/autumnSands/autumnSandherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/autumnSands/autumnSandherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/autumnSands/autumnSandherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing","fbEKing"],
+				"availableSizesFull":["Modular","Kingsize","Engineer Kingsize"],
+				"placement":1
+			},
+			"sqEdNoTx":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/faceBrick/autumnSands/autumnSandSentfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/autumnSands/autumnSandSentfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing","fbEKing"],
+				"availableSizesFull":["Modular","Kingsize","Engineer Kingsize"],
+				"placement":2
+			}
+}
+},
+"saharaSands":{
+			"productName":"Face Brick",
+			"colorName":"Sahara Sands",
+			"colorSafe":"saharaSands",
+			"colorRange":"Sands",
+			"rangePlacement":37,
+			"texture":{
+			"mainThumb":"assets/faceBrick/saharaSands/saharaSandsherfbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/faceBrick/saharaSands/saharaSandsherfbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/saharaSands/saharaSandsherfbLarge.jpg",
+				"availableSizes":["fbMod","fbKing","fbEKing"],
+				"availableSizesFull":["Modular","Kingsize","Engineer Kingsize"],
+				"placement":1
+			},
+			"sqEdNoTx":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/faceBrick/saharaSands/saharasandsqefbMedium.jpg",
+				"textureImageMain":"assets/faceBrick/saharaSands/saharasandsqefbLarge.jpg",
+				"availableSizes":["fbMod","fbKing","fbEKing"],
+				"availableSizesFull":["Modular","Kingsize","Engineer Kingsize"],
+				"placement":2
+			}
+}
+}
+
+},
+"thinBrick":{
+"productLine":"Thin Brick",
+"desertLight":{
+			"productName":"Thin Brick",
+			"colorName":"Desert Ironspot Light",
+			"colorSafe":"desertLight",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"colorProjects":"assets/thinBrick/sanford/sanforda1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705890590?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/77_and_dil_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmofbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/desertIronspotLight/desertIronspotLightveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotLight/desertIronspotLightveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/desertIronspotLight/desertIronspotLightvertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotLight/desertIronspotLightvertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotLight/desertIronspotLightsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"desertDark":{
+			"productName":"Thin Brick",
+			"colorName":"Desert Ironspot Dark",
+			"colorSafe":"desertDark",
+			"colorRange":"Ironspots",
+			"rangePlacement":2,
+			"colorProjects":"assets/thinBrick/bostonCollege/bostonCollege1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705893837?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/coppertone_desert_dark_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/desertIronspotDark/desertissmofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/desertIronspotDark/desertIronspotDarksmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotDark/desertIronspotDarksmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"],
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/desertIronspotDark/desertIronspotDarkveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotDark/desertIronspotDarkveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+				"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"],
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/desertIronspotDark/desertIronspotDarksmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotDark/desertIronspotDarksmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+				"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"],
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/desertIronspotDark/desertisdvertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotDark/desertisdvertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/desertIronspotDark/desertIronspotDarksmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/desertIronspotDark/desertIronspotDarksmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"copperCanyon":{
+			"productName":"Thin Brick",
+			"colorName":"Copper Canyon",
+			"colorSafe":"copperCanyon",
+			"colorRange":"Ironspots",
+			"rangePlacement":3,
+			"colorProjects":"assets/thinBrick/uncommon/uncommon2.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705893424?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/copper_canyon_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/copperCanyon/copperCanyonsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/copperCanyon/copperCanyonsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/copperCanyon/copperCanyonsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/copperCanyon/copperCanyonveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/copperCanyon/copperCanyonveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/copperCanyon/copperCanyonveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/copperCanyon/copperCanyonveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/copperCanyon/copperCanyonveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/copperCanyon/copperCanyonveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/copperCanyon/copperCanyonveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/copperCanyon/copperCanyonveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"coppertone":{
+			"productName":"Thin Brick",
+			"colorName":"Coppertone",
+			"colorSafe":"coppertone",
+			"colorRange":"Ironspots",
+			"rangePlacement":4,
+			"colorProjects":"assets/thinBrick/bostonCollege/bostonCollege1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705893837?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/coppertone_desert_dark_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/coppertone/coppertoneveltbMedium.jpg",
+			"mainTexture":"velour",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/coppertone/coppertonesmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/coppertone/coppertonesmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/coppertone/coppertoneveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/coppertone/coppertoneveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/coppertone/coppertonematfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/coppertone/coppertonematfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/coppertone/coppertoneverfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/coppertone/coppertoneverfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/coppertone/coppertoneveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/coppertone/coppertoneveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"medIS77":{
+			"productName":"Thin Brick",
+			"colorName":"Medium Ironspot #77",
+			"colorSafe":"medIS77",
+			"colorRange":"Ironspots",
+			"rangePlacement":5,
+			"colorProjects":"assets/thinBrick/lucasOil/lucasOil1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705890590?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/77_and_dil_short.mp4",
+			"texture":{
+			"mainThumb":"assets/faceBrick/mediumIronspot77/mediumIronspot77smofbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot77/mediumIronspot77smotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot77/mediumIronspot77smotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot77/mediumIronspot77veltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot77/mediumIronspot77veltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot77/mediumIronspot77matfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot77/mediumIronspot77matfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot77/mediumIronspot77verfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot77/mediumIronspot77verfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot77/mediumIronspot77artfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot77/mediumIronspot77artfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"medIS46":{
+			"productName":"Thin Brick",
+			"colorName":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"colorRange":"Ironspots",
+			"rangePlacement":6,
+			"colorProjects":"assets/thinBrick/avera/avera1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705887299?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/medium_46_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/mediumIronspot46/mediumIronspot46smotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot46/mediumIronspot46smotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot46/mediumIronspot46smotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot46/mediumIronspot46veltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot46/mediumIronspot46veltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot46/mis46mattbLarge.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot46/mis46mattbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot46/mediumIronspot46verfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot46/mediumIronspot46verfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/mediumIronspot46/mediumIronspot46artfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/mediumIronspot46/mediumIronspot46artfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"darkIronspot":{
+			"productName":"Thin Brick",
+			"colorName":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"colorRange":"Ironspots",
+			"rangePlacement":7,
+			"colorProjects":"assets/thinBrick/uncommon/uncommon1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705890000?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/dark_ironspot_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/darkIronspot/darkIronspotsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/darkIronspot/darkIronspotsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/darkIronspot/darkIronspotsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/darkIronspot/darkIronspotveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/darkIronspot/darkIronspotveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/darkIronspot/darkIronspotverfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/darkIronspot/darkIronspotverfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/darkIronspot/darkIronspotartfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/darkIronspot/darkIronspotartfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"manganese":{
+			"productName":"Thin Brick",
+			"colorName":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"colorRange":"Ironspots",
+			"rangePlacement":8,
+			"colorProjects":"assets/thinBrick/honor/honor1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/700570829?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/endicott_manganese_short.mp4",
+			"colorVideo":"https://player.vimeo.com/video/700570829?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"texture":{
+			"mainThumb":"assets/thinBrick/manganeseIronspot/manganeseIronspotsmotbMedium.jpg",
+			"mainTexture":"smooth",			
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/manganeseIronspot/manganeseIronspotsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseIronspot/manganeseIronspotsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/manganeseIronspot/manganeseIronspotveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseIronspot/manganeseIronspotveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/manganeseIronspot/manganeseIronspotmattbLarge.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseIronspot/manganeseIronspotmattbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/manganeseIronspot/manganeseIronspotverfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseIronspot/manganeseIronspotverfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/manganeseIronspot/manganeseIronspotartfb2tbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseIronspot/manganeseIronspotartfb2tbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"sienna":{
+			"productName":"Thin Brick",
+			"colorName":"Sienna Ironspot",
+			"colorSafe":"sienna",
+			"colorRange":"Ironspots",
+			"rangePlacement":9,
+			"colorProjects":"assets/thinBrick/heart/heart1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705892129?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/sienna_ironspot_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/siennaIronspot/siennaIronspotveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/siennaIronspot/siennaIronspotveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/siennaIronspot/siennaIronspotsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"executive":{
+			"productName":"Thin Brick",
+			"colorName":"Executive Ironspot",
+			"colorSafe":"executive",
+			"colorRange":"Ironspots",
+			"rangePlacement":10,
+			"texture":{
+			"mainThumb":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/executiveIronspot/executiveIronspotveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/executiveIronspot/executiveIronspotveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/executiveIronspot/executiveIronspotsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"roseBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Rose Blend",
+			"colorSafe":"roseBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":13,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/roseBlend/roseBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/roseBlend/roseBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/roseBlend/roseBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/roseBlend/roseBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/roseBlend/roseBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/roseBlend/roseBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/roseBlend/roseBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/roseBlend/roseBlendvertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/roseBlend/roseBlendvertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/roseBlend/roseBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/roseBlend/roseBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"buffBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Buff Blend",
+			"colorSafe":"buffBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":14,
+			"texture":{
+			"mainThumb":"assets/thinBrick/buffBlend/buffBlendveltbLarge.jpg",
+			"mainTexture":"velour",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/buffBlend/buffBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/buffBlend/buffBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/buffBlend/buffBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"redBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Red Blend",
+			"colorSafe":"redBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":15,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/redBlend/redBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/redBlend/redBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/redBlend/redBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/redBlend/redBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/redBlend/redBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/redBlend/redBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/redBlend/redBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/redBlend/redBlendvertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/redBlend/redBlendvertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/redBlend/redBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/redBlend/redBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"burgundyBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Burgundy Blend",
+			"colorSafe":"burgundyBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":16,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/burgundyBlend/burgundyBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/burgundyBlend/burgundyBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/burgundyBlend/burgundyBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"rubyRed":{
+			"productName":"Thin Brick",
+			"colorName":"Ruby Red",
+			"colorSafe":"rubyRed",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":17,
+			"colorProjects":"assets/FBandTB/800Fulton/800Fulton1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705891195?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/burgundyBlend-redBlend-roseBlend-rubyBlend_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/rubyRed/rubyRedsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/rubyRed/rubyRedsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/rubyRed/rubyRedsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/rubyRed/rubyRedveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/rubyRed/rubyRedveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/rubyRed/rubyRedsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/rubyRed/rubyRedsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/rubyRed/rubyRedvertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/rubyRed/rubyRedvertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/rubyRed/rubyRedsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/rubyRed/rubyRedsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"bordeauxBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Bordeaux Blend",
+			"colorSafe":"bordeauxBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":18,
+			"texture":{
+			"mainThumb":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/bordeauxBlend/bordeauxBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/bordeauxBlend/bordeauxBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/bordeauxBlend/bordeauxBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"redIronspot":{
+			"productName":"Thin Brick",
+			"colorName":"Red Ironspot",
+			"colorSafe":"redIronspot",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":19,
+			"texture":{
+			"mainThumb":"assets/thinBrick/redIronspot/redIronspotsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/redIronspot/redIronspotsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/redIronspot/redIronspotsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/redIronspot/redIronspotveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/redIronspot/redIronspotveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/redIronspot/redIronspotveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/redIronspot/redIronspotveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			}
+}
+},
+"ivoryBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Ivory Blend",
+			"colorSafe":"ivoryBlend",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":20,
+			"texture":{
+			"mainThumb":"assets/thinBrick/ivoryBlend/ivoryBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/ivoryBlend/ivoryBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/ivoryBlend/ivoryBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/ivoryBlend/ivoryBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/ivoryBlend/ivoryBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			}
+}
+},
+"goldenBuff":{
+			"productName":"Thin Brick",
+			"colorName":"Golden Buff",
+			"colorSafe":"goldenBuff",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":21,
+			"texture":{
+			"mainThumb":"assets/thinBrick/goldenBuff/goldenBuffsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/goldenBuff/goldenBuffsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/goldenBuff/goldenBuffsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/goldenBuff/goldenBuffveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/goldenBuff/goldenBuffveltbMedium.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/goldenBuff/goldenBuffsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/goldenBuff/goldenBuffsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/goldenBuff/goldenBuffvertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/goldenBuff/goldenBuffvertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/goldenBuff/goldenBuffsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/goldenBuff/goldenBuffsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"lightGreyBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Light Gray Blend",
+			"colorSafe":"lightGreyBlend",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":22,
+			"texture":{
+			"mainThumb":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/lightGreyBlend/lightGreyBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/lightGreyBlend/lightGreyBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/lightGreyBlend/lightGreyBlendsmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"greyBlend":{
+			"productName":"Thin Brick",
+			"colorName":"Gray Blend",
+			"colorSafe":"greyBlend",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":23,
+			"texture":{
+			"mainThumb":"assets/thinBrick/greyBlend/greyBlendsmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/greyBlend/greyBlendsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/greyBlend/greyBlendsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/greyBlend/greyBlendveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/greyBlend/greyBlendveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/greyBlend/greyBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/greyBlend/greyBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/greyBlend/greyBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/greyBlend/greyBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/greyBlend/greyBlendveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/greyBlend/greyBlendveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"lightSandstone":{
+			"productName":"Thin Brick",
+			"colorName":"Light Sandstone",
+			"colorSafe":"lightSandstone",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":24,
+			"colorProjects":"assets/multiProd/nesbit/nesbit1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705894335?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/light_sandstone_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/lightSandstone/lightSandstonesmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/lightSandstone/lightSandstonesmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/lightSandstone/lightSandstonesmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/lightSandstone/lightSandstoneveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/lightSandstone/lightSandstoneveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/lightSandstone/lightSandstonesmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/lightSandstone/lightSandstonesmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/lightSandstone/lightSandstonesmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/lightSandstone/lightSandstonesmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/lightSandstone/lightSandstonesmotbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/lightSandstone/lightSandstonesmotbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"darkSandstone":{
+			"productName":"Thin Brick",
+			"colorName":"Dark Sandstone",
+			"colorSafe":"darkSandstone",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":24,
+			"colorProjects":"assets/thinBrick/dcwest/dcwest1.jpg",
+			"colorVideo":"https://player.vimeo.com/video/705892685?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1",
+			"colorVideoShort":"assets/video/colorVideoShorts/dark_sandstone_short.mp4",
+			"texture":{
+			"mainThumb":"assets/thinBrick/darkSandstone/darkSandstonesmotbMedium.jpg",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/darkSandstone/darkSandstonesmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/darkSandstone/darkSandstonesmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/darkSandstone/darkSandstoneveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/darkSandstone/darkSandstoneveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/darkSandstone/darkSandstoneveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/darkSandstone/darkSandstoneveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/darkSandstone/darkSandstoneveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/darkSandstone/darkSandstoneveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/darkSandstone/darkSandstoneveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/darkSandstone/darkSandstoneveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"manganeseBrown":{
+			"productName":"Thin Brick",
+			"colorName":"Graphite",
+			"colorSafe":"manganeseBrown",
+			"colorRange":"Buffs And Grays",
+			"rangePlacement":26,
+			"texture":{
+			"mainThumb":"assets/thinBrick/manganeseBrown/manganeseBrownveltbMedium.jpg",
+			"mainTexture":"velour",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/thinBrick/manganeseBrown/manganeseBrownsmotbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseBrown/manganeseBrownsmotbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Closure","Utility"]
+					}
+				},
+				"placement":2
+			},
+			"velour":{
+				"textureName":"Velour",
+				"textureImageThumb":"assets/thinBrick/manganeseBrown/manganeseBrownveltbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil","tbTrip"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility","Triple"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"matt":{
+				"textureName":"Matt",
+				"textureImageThumb":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":3
+			},
+			"vertical":{
+				"textureName":"Vertical Score",
+				"textureImageThumb":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":4
+			},
+			"artisan":{
+				"textureName":"Artisan",
+				"textureImageThumb":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/manganeseBrown/manganeseBrownveltbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbMod","tbClose"],
+						"availableSizesFull":["Modular","Closure"]
+					}
+				},
+				"placement":5
+			}
+}
+},
+"orleansSands":{
+			"productName":"Thin Brick",
+			"colorName":"Orleans Sands",
+			"colorSafe":"orleansSands",
+			"colorRange":"Sands",
+			"rangePlacement":29,
+			"texture":{
+			"mainThumb":"assets/thinBrick/orleansSands/orleansSandshertbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/thinBrick/orleansSands/orleansSandshertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/orleansSands/orleansSandshertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"noText":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/thinBrick/orleansSands/orleansSandshertbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/orleansSands/orleansSandshertbLargeNA.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			}
+}
+},
+"greySands":{
+			"productName":"Thin Brick",
+			"colorName":"Gray Sands",
+			"colorSafe":"greySands",
+			"colorRange":"Sands",
+			"rangePlacement":30,
+			"texture":{
+			"mainThumb":"assets/thinBrick/greySands/greySandssqetbMedium.jpg",
+			"mainTexture":"noText",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/thinBrick/greySands/greySandssqetbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/greySands/greySandssqetbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"noText":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/thinBrick/greySands/greySandssqetbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/greySands/greySandssqetbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			}
+}
+},
+"burgundySands":{
+			"productName":"Thin Brick",
+			"colorName":"Burgundy Sands",
+			"colorSafe":"burgundySands",
+			"colorRange":"Sands",
+			"rangePlacement":32,
+			"texture":{
+			"mainThumb":"assets/thinBrick/burgundySands/burgundySandshertbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/thinBrick/burgundySands/burgundySandshertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/burgundySands/burgundySandshertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"noText":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/thinBrick/burgundySands/burgundySandssqetbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/burgundySands/burgundySandssqetbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			}
+}
+},
+"merlotSands":{
+			"productName":"Thin Brick",
+			"colorName":"Merlot Sands",
+			"colorSafe":"merlotSands",
+			"colorRange":"Sands",
+			"rangePlacement":33,
+			"texture":{
+			"mainThumb":"assets/thinBrick/merlotSands/merlotSandshertbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/thinBrick/merlotSands/merlotSandshertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/merlotSands/merlotSandshertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"noText":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/thinBrick/merlotSands/merlotSandssqetbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/merlotSands/merlotSandssqetbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			}
+}
+},
+"autumnSands":{
+			"productName":"Thin Brick",
+			"colorName":"Autumn Sands",
+			"colorSafe":"autumnSands",
+			"colorRange":"Sands",
+			"rangePlacement":36,
+			"texture":{
+			"mainThumb":"assets/thinBrick/autumnSands/autumnSandshertbMedium.jpg",
+			"mainTexture":"heritage",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/thinBrick/autumnSands/autumnSandshertbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/autumnSands/autumnSandshertbLarge.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"noText":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/thinBrick/autumnSands/autumnSandshertbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/autumnSands/autumnSandshertbLargeNA.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			}
+}
+},
+"saharaSands":{
+			"productName":"Thin Brick",
+			"colorName":"Sahara Sands",
+			"colorSafe":"saharaSands",
+			"colorRange":"Sands",
+			"rangePlacement":37,
+			"texture":{
+			"mainThumb":"assets/thinBrick/saharaSands/saharaSandssqetbMedium.jpg",
+			"mainTexture":"noText",
+			"heritage":{
+				"textureName":"Heritage",
+				"textureImageThumb":"assets/thinBrick/saharaSands/saharaSandssqetbLargeNA.jpg",
+				"textureImageMain":"assets/thinBrick/saharaSands/saharaSandssqetbLargeNA.jpg",
+				"availableThickness":{
+					"t58Thick":{
+						"thickness":"5/8\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					},
+					"t1Thick":{
+						"thickness":"1\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":1
+			},
+			"noText":{
+				"textureName":"Square Edge No Texture",
+				"textureImageThumb":"assets/thinBrick/saharaSands/saharaSandssqetbMedium.jpg",
+				"textureImageMain":"assets/thinBrick/saharaSands/saharaSandssqetbLarge.jpg",
+				"availableThickness":{
+					"t12Thick":{
+						"thickness":"1/2\" Thick",
+						"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+						"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+					}
+				},
+				"placement":2
+			}
+}
+},
+"sn1":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed White - SN1",
+			"colorSafe":"sn1",
+			"colorRange":"Glazed",
+			"rangePlacement":38,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn1Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn1Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn1Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn2":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray -SN2",
+			"colorSafe":"sn2",
+			"colorRange":"Glazed",
+			"rangePlacement":39,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn2Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn2Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn2Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn3":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - SN3",
+			"colorSafe":"sn3",
+			"colorRange":"Glazed",
+			"rangePlacement":41,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn3Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn3Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn3Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn4":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray -  SN4",
+			"colorSafe":"sn4",
+			"colorRange":"Glazed",
+			"rangePlacement":42,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn4Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn4Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn4Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn5":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray -  SN5",
+			"colorSafe":"sn5",
+			"colorRange":"Glazed",
+			"rangePlacement":43,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn5Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn5Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn5Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn6":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - SN6",
+			"colorSafe":"sn6",
+			"colorRange":"Glazed",
+			"rangePlacement":44,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn6Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn6Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn6Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn7":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray -  SN7",
+			"colorSafe":"sn7",
+			"colorRange":"Glazed",
+			"rangePlacement":45,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn7Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn7Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn7Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"sn8":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Black - SN8",
+			"colorSafe":"sn8",
+			"colorRange":"Glazed",
+			"rangePlacement":46,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/sn8Medium.jpg",
+				"mainTexture":"smooth",
+				"smooth":{
+					"textureName":"Smooth",
+					"textureImageThumb":"assets/thinBrick/glazed/sn8Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/sn8Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc1":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed White VC1",
+			"colorSafe":"vc1",
+			"colorRange":"Glazed",
+			"rangePlacement":47,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc1Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc1Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc1Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc2":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - VC2",
+			"colorSafe":"vc2",
+			"colorRange":"Glazed",
+			"rangePlacement":48,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc2Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc2Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc2Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc3":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - VC3",
+			"colorSafe":"vc3",
+			"colorRange":"Glazed",
+			"rangePlacement":49,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc3Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc3Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc3Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc4":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - VC4",
+			"colorSafe":"vc4",
+			"colorRange":"Glazed",
+			"rangePlacement":50,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc4Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc4Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc4Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc5":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - VC5",
+			"colorSafe":"vc5",
+			"colorRange":"Glazed",
+			"rangePlacement":51,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc5Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc5Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc5Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc6":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Gray - VC6",
+			"colorSafe":"vc6",
+			"colorRange":"Glazed",
+			"rangePlacement":52,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc6Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc6Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc6Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc7":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Grey - VC7",
+			"colorSafe":"vc7",
+			"colorRange":"Glazed",
+			"rangePlacement":53,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc7Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc7Medium.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc7Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	},
+"vc8":{
+			"productName":"Thin Brick",
+			"colorName":"Glazed Black - VC8",
+			"colorSafe":"vc8",
+			"colorRange":"Glazed",
+			"rangePlacement":54,
+			"texture":{
+				"mainThumb":"assets/thinBrick/glazed/vc8Medium.jpg",
+				"mainTexture":"velour",
+				"velour":{
+					"textureName":"Velour",
+					"textureImageThumb":"assets/thinBrick/glazed/vc8Large.jpg",
+					"textureImageMain":"assets/thinBrick/glazed/vc8Large.jpg",
+					"availableThickness":{
+						"t12Thick":{
+							"thickness":"1/2\" Thick",
+							"availableSizes":["tbRom","tbMod","tbNorm","tbKing","tbClose","tbUtil"],
+							"availableSizesFull":["Roman","Modular","Norman","Kingsize","Closure","Utility"]
+						}
+					},
+					"placement":1
+				}
+			}
+	}
+},
+"pavers":{
+"productLine":"Pavers",
+"copperCanyon":{
+			"productName":"Pavers",
+			"colorName":"Copper Canyon",
+			"colorSafe":"copperCanyon",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/copperCanyon/copperCanyonwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/copperCanyon/copperCanyonwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/copperCanyon/copperCanyonwirpvLarge.jpg",
+				"availableSizes":["2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-1_4x4x8RelievedLug","2-1_4x4x8Permeable","paverTread"],
+				"availableSizesFull":["2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"coppertone":{
+			"productName":"Pavers",
+			"colorName":"Coppertone",
+			"colorSafe":"coppertone",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/coppertone/coppertonewirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/coppertone/coppertonewirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/coppertone/coppertonewirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"mis77":{
+			"productName":"Pavers",
+			"colorName":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/mediumIronspot77/mediumIronspot77wirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/mediumIronspot77/mediumIronspot77wirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/mediumIronspot77/mediumIronspot77wirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"mis46":{
+			"productName":"Pavers",
+			"colorName":"Medium Ironspot #46",
+			"colorSafe":"mis46",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/mediumIronspot46/mediumIronspot46wirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/mediumIronspot46/mediumIronspot46wirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/mediumIronspot46/mediumIronspot46wirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"darkIronspot":{
+			"productName":"Pavers",
+			"colorName":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/darkIronspot/darkIronspotwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/darkIronspot/darkIronspotwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/darkIronspot/darkIronspotwirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"manganese":{
+			"productName":"Pavers",
+			"colorName":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"colorRange":"Ironspots",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/manganeseIronspot/manganeseIronspotwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/manganeseIronspot/manganeseIronspotwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/manganeseIronspot/manganeseIronspotwirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"roseBlend":{
+			"productName":"Pavers",
+			"colorName":"Rose Blend",
+			"colorSafe":"roseBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/roseBlend/roseBlendwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/roseBlend/roseBlendwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/roseBlend/roseBlendwirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"redBlend":{
+			"productName":"Pavers",
+			"colorName":"Red Blend",
+			"colorSafe":"redBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/redBlend/redBlendwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/redBlend/redBlendwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/redBlend/redBlendwirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"burgundyBlend":{
+			"productName":"Pavers",
+			"colorName":"Burgundy Blend",
+			"colorSafe":"burgundyBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/burgundyBlend/burgundyBlendwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/burgundyBlend/burgundyBlendwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/burgundyBlend/burgundyBlendwirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\"","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged","Paver Tread"],
+				"placement":1
+			}
+}
+},
+"bordeauxBlend":{
+			"productName":"Pavers",
+			"colorName":"Bordeaux Blend",
+			"colorSafe":"bordeauxBlend",
+			"colorRange":"Roses And Reds",
+			"rangePlacement":1,
+			"texture":{
+			"mainThumb":"assets/pavers/bordeauxBlend/bordeauxBlendwirpvMedium.jpg",
+			"mainTexture":"wireCut",
+			"wireCut":{
+				"textureName":"Wirecut",
+				"textureImageThumb":"assets/pavers/bordeauxBlend/bordeauxBlendwirpvMedium.jpg",
+				"textureImageMain":"assets/pavers/bordeauxBlend/bordeauxBlendwirpvLarge.jpg",
+				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-1_4x4x8RelievedLug","2-1_4x4x8Permeable","paverTread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","Paver Tread"],
+				"placement":1
+			}
+}
+}
+}
+}

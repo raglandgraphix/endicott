@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endicott - Boys Town Educational Center</title>
+    <link href="../../node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <script src="../../node_modules/jquery/dist/jquery.js"></script>
+    <script src="../../node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    
+    <style>
+        #navbarDrop{
+            
+            text-align: right;
+        }
+        ##navbarDrop ul{
+
+        }
+        nav{
+            height: 100px;
+           
+        }
+        #logo{
+            height: 50%;
+            margin-top: 25px;
+            margin-left: 25px;           
+        }
+        #videoHold{
+            width: 100vw;
+            height:auto;
+            padding: 0px;
+            
+        }
+        #videoHold video{
+            width: 100vw;
+           
+            box-shadow: 5px 5px 5px;
+           
+        }
+        .bg-lightGrey{
+            background-color: #ececec;
+        }
+        .copy{
+            line-height: 2.25;
+        }
+        #userInfo{
+            position:fixed;
+            width: 500px;
+            height: 200px;
+            background-color: whitesmoke;
+            z-index: 3;
+            top: 200px;
+            border: thin solid black;
+            box-shadow: 5px 5px 5px black;
+            border-radius: 10px;
+
+        }
+        .h-300{
+            height: 300px;
+        }
+        .bg-clause{
+            background-color: rgba(105,105,105,.9);
+        }
+        
+        
+        
+    </style>
+</head>
+<body>
+    <!--Start of navbar-->
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top">        
+        <img id="logo" class="img-fluid " src="../../assets/endicottLogoWhite.png" />
+        <button class="navbar-toggler mt-4" type="button" aria-controls="navbarDrop" data-toggle="collapse" data-target="#navbarDrop" >
+            <span class="navbar-toggler-icon"></span>
+            </button>
+        <div class="collapse navbar-collapse justify-content-end  mr-2" id="navbarDrop" >
+            <ul class="navbar-nav mt-md-5">
+                <li class="nav-item"><a class="nav-link" href="/">HOME </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"> LEARN MORE</a>
+                </li>
+            </ul>
+        </div>    
+
+    </nav>
+   
+    <!--Start my page here-->
+    <div class="main container-fluid">
+        <div class="row  fixed-bottom bg-clause text-light  ">
+            <div class="col-12">
+                <div class="row">
+                    <div class="col-12 text-center pt-2">
+                        <h4>HELP US LEARN MORE ABOUT OUR AUDIENCE</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <form>
+                            <!--job This justifies everything to the center and still left aligns all the text-->
+                            <div class="row">                               
+                                    <div class="col-12 col-md-6">
+                                        <div class="row ">
+                                            <div class="col-12 d-flex  justify-content-center">
+                                                <h4>What Do You Do?</h4>
+                                            </div>
+                                        </div>
+                                            <div class="row">
+                                                <div class="col-12 d-flex justify-content-center">
+                                                   <div class="row">
+                                                    <div class="col-12">
+                                                        <div class="form-group">
+                                                            <label class="">Architect</label>
+                                                            <input class="" type="checkbox">
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <label class="">Specifier</label>
+                                                            <input class="" type="checkbox">
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <label class="">Contractor</label>
+                                                            <input class="" type="checkbox">
+                                                        </div>
+                                                        <div  class="form-group">
+                                                            <label class="">Sales Representative</label>
+                                                            <input class="" type="checkbox">
+                                                        </div>
+                                                    </div>
+                                                   </div>
+                                                    
+                                                
+                                                </div>                                        
+                                            </div> 
+                                    </div>                                   
+                                    <div class="col-12 col-md-6  d-flex justify-content-center">
+                                        <div class="row">
+                                            <div class="col-12">
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <h4>Where Are you From?</h4>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-12">
+                                                        <select class="">
+                                                            <option>Alabama</option>
+                                                            <option>Alaska</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>                                            
+                                        </div>
+                                    </div>                              
+                            </div>
+                               
+                            <!--location-->
+                            <div class="row">
+                                <div class="col-12 d-flex justify-content-center">
+                                    <button type="submit" class="btn btn-light mr-2 mb-2">Submit</button>
+                                    <button type="button" class="btn btn-light ml-2 mb-2">I Don't Wish to Answer</button>
+                                </div>
+                            </div>
+                           
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div id="videoHold" class="col-12 ">
+                <video id="mainVideo" muted loop autoplay >
+                    <source src="../../assets/BoysTown_Social_Hype_16x9_4K_Compressed.mov">
+                </video>
+            </div>
+        </div>
+        <div id="pageName" class="row mt-5">
+            <div class="col-12 text-center">
+                <h1>Boys Town Educational Center</h1>
+                <h4>Thin Brick by Endicott</h4>
+                <p class="mb-0">Architect:<a class="text-decoration-none text-dark" href="https://www.dlrgroup.com/firm-news/boys-town-education-center/"> DLR Group</a></p>
+                <p>Precaster:<a class="text-decoration-none text-dark" href="https://www.enterpriseprecast.com/"> Enterprise Precast Concrete</a></p>
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="col-10">
+                <p class="pl-5 pr-5 copy">After years of collaboration, one of the largest non-profit childcare organizations in the country, Boys Town has opened its Education Center as a beacon of hope for students who have faced adversity. Founded in 1917 by Fr. Edward J. Flanagan, as a refuge for homeless boys, Boys Town has grown to be much more. Boys Town no offers services to children and families regardless of gender. In addition to the supportive residential care for children it offers mental health resources, educational services, and vocational training. The architect used playful brick patterns that break up large wall spans with intricate design, the exterior pays homage to other historic Boys Town facilities, yet stand out as state of the art, providing a symbol of strength, stability, and opportunity.  Brick was chosen because of its unique blend of materials that gives them a distinctive texture and color. The bricks of this three-story, 110,000 square foot facility are a reminder to students that they are not alone and represent the hope and opportunity that Boys Town offers its students. In addition to their symbolic meaning, the brick walls of the new Education Center offer superior insulation and soundproofing, which helps to create a calm and focused learning environment. The architect chose precast panels with thin brick due to time constraints, as it was taking the place of an older building that had to be torn down. Then the construction of the new building took its place. By using brick, the building was able to respect the iconic legacy of Boys Town. The new Education Center is a testament to Boys Town's commitment to providing its students with the best possible educational experience. The brick walls are a symbol of that commitment, and they will stand for decades to come, leaving behind a strong legacy of hope and strength.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2>Colors Used</h2>
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="card col-12 col-md-5 ml-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/ivoryBlend/ivoryBlendsmotbLarge.jpg"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Ivory Blend</h4>
+                   
+                        
+                    
+                    
+                    <h5 class="text-center">Get More Information about Ivory Blend</h5>
+                    <a href="#" class="btn bg-lightGrey justify-content-center">Ivory Blend</a>
+                </div>
+
+            </div>
+            <div class="card col-12 col-md-5 ml-2 mr-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/desertIronspotLight/desertIronspotLightveltbLarge.jpg"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Desert Ironspot Light</h4>
+                    
+                    <h5 class="text-center">Get More Information about Desert Ironspot Light</h5>
+                    <a href="#" class="btn bg-lightGrey justify-content-center">Desert Ironspot Light</a>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center mt-5">
+                <h2>Sizes Used</h2>
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="card col-12 col-md-5 ml-2 mr-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/Sizes/normanThinBrick.png"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Norman Thin Brick</h4>
+                   
+                   
+                </div>
+
+            </div>
+            <div class="card col-12 col-md-5 ml-2 mr-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/Sizes/closureThinBrick.png"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Closure Thin Brick</h4>
+                   
+                    
+                </div>
+
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="card col-12 col-md-5 ml-2 mr-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/Sizes/modularThinBrick.png"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Modular Thin Brick</h4>
+                   
+                   
+                </div>
+
+            </div>
+            <div class="card col-12 col-md-5 ml-2 mr-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/Sizes/utilityThinBrick.png"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Utility Thin Brick</h4>
+                   
+                    
+                </div>
+
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-center">
+            <div class="card col-12 col-md-5 ml-2 mr-2 text-center">
+                <img class="img-fluid mt-2" src="../../assets/thinBrick/Sizes/tripleThinBrick.png"/>
+                <div class="card-body">
+                    <h4 class=" text-center">Triple Thin Brick</h4>
+                   
+                   
+                </div>
+
+            </div>
+        </div>
+       
+        <div class="row">
+            <div class="col-12 text-center mt-5 mb-5">
+                <h5>Get More Information</h5>
+                <a href="#" class="btn bg-info">Information</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        
+        $(window).on('scroll',function(){
+            const setLoc = $("#pageName").offset().top-100;
+            if(window.scrollY>=setLoc){
+                $("nav").addClass('bg-dark')
+            }else if(window.scrollY<=setLoc){
+                $("nav").removeClass('bg-dark');
+            }
+        });
+        // $("#mainVideo").on('timeupdate',function(){
+            
+        //     const videoTime = $("#mainVideo").prop('currentTime');
+            
+        //     if(videoTime>=24.25 && videoTime<36.5 ){
+        //         $("nav").removeClass('navbar-light').addClass('navbar-dark');
+                
+        //     }else if(videoTime>=36.25){
+        //         console.log('end');
+        //         $("nav").removeClass('navbar-dark').addClass('navbar-light');
+        //     }
+        // });
+    </script>
+    
+</body>
+</html>
