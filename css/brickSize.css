@@ -1,0 +1,108 @@
+/*This CSS file was created by Ragland Graphix for the use of Endicott Clay product All rights reserved*/
+body{
+	background:#ededed;
+	overflow-x:hidden;
+}
+#holderWrapper{
+	width:95%;
+	padding: 0px;
+	margin: 0px auto;
+	text-align:center;
+	height:auto;
+}
+#sizeText{
+	position:relative;
+	display:inline-block;
+	width:15%;
+	height:auto;
+	padding:0px;
+	margin:0px 10px 0px 0px;
+	vertical-align: top;
+	min-width:310px;
+	text-align:center;
+	border:black thin solid;
+	border-radius:25px;
+	color:black;
+	font-family:'endicottUnivers57Con';
+	white-space: normal;
+	background:white;
+}
+
+#sizeDetail{
+	display:inline-block;
+	width:70%;
+	height:auto;
+	padding:0px;
+	margin:0px;
+	max-width: 1000px;
+	visibility:visible;
+	top:0px;
+	
+	
+}
+#image{
+	width:100%;
+	height:auto;
+	border-radius: 20px;
+	position:relative;
+	top:-30px;
+	float:left;
+	z-index: -1;
+	border:thin black solid;
+	
+}
+#sizeText p{
+	margin-top:-5px;
+	font-family:'endicottUnivers47Con';
+	color:black;
+	font-size:1.05em;
+	line-height:1.35em;
+	cursor:pointer;
+	text-decoration: underline;
+}
+#preLoad{
+	visibility: hidden;
+	width:50%;
+	height:5px;
+	overflow:hidden;
+}
+#bottomTool{
+	position:relative;
+	width:100%;
+	text-align:right;
+	height:auto;
+	float:left;
+	top:-30px;
+}
+#printDetail{
+	display:inline;
+}
+#printDetail:hover{
+	background-color:#505050;
+	cursor:pointer;
+}
+#noClick{
+	position:absolute;
+	width:900px;
+	z-index:1;
+	height:100%;
+	background:#505050;
+	opacity:.5;
+	visibility:hidden;
+}
+#exit{
+	position:relative;
+	width:25px;
+	height:25px;
+	right:20px;				
+	z-index: 1;
+	float:right;
+	cursor:pointer;
+	visibility:hidden;
+}
+/*.pageDescriptionECP{
+	font-family:'endicottUnivers57Con';
+	font-size:1.5em;
+	margin-left:30px;
+	color:black;
+}*/

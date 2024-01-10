@@ -1,0 +1,376 @@
+{"faceBrick":{
+	"roman":{
+		"nameLong":"Roman - 3-5/8 x 1-5/8 x 11-5/8",
+		"nameShort":"Roman",
+		"pLocation":"assets/sizes/romanFaceBrick.png",
+		"pdf":"assets/sizes/romanFaceBrick.pdf"
+		},
+	"modular":{
+		"nameLong":"Modular - 3-5/8 x 2-1/4 x 7-5/8",
+		"nameShort":"Modular",
+		"pLocation":"assets/sizes/modularFaceBrick.png",
+		"pdf":"assets/sizes/modularFaceBrick.pdf"
+		},
+	"norman":{
+		"nameLong":"Norman - 3-5/8 x 2-1/4 x 11-5/8",
+		"nameShort":"Norman",
+		"pLocation":"assets/sizes/normanFaceBrick.png",
+		"pdf":"assets/sizes/normanFaceBrick.pdf"
+		},
+	"two25Meridian":{
+		"nameLong":"2-1/4\"Meridian - 3-5/8 x 2-1/4 x 15-5/8",
+		"nameShort":"2-1/4\" Meridian",
+		"pLocation":"assets/sizes/2-1_4meridianFaceBrick.png",
+		"pdf":"assets/sizes/2-1_4meridianFaceBrick.pdf"
+		},
+	"slimKing":{
+		"nameLong":"Slim Kingsize 2-5/8 x 2-5/8 x 9-5/8",
+		"nameShort":"Slim Kingsize",
+		"pLocation":"assets/sizes/slimKingFaceBrick.png",
+		"pdf":"assets/sizes/slimKingFaceBrick.pdf"
+		},
+	"kingsize":{
+		"nameLong":"Kingsize - 3 x 2-5/8 x 9-5/8",
+		"nameShort":"Kingsize",
+		"pLocation":"assets/sizes/kingsizeFaceBrick.png",
+		"pdf":"assets/sizes/kingsizeFaceBrick.pdf"
+		},
+	"eModular":{
+		"nameLong":"Engineer Modular - 3-5/8 x 2-13/16 x 7-5/8",
+		"nameShort":"Engineer Modular",
+		"pLocation":"assets/sizes/eModularFaceBrick.png",
+		"pdf":"assets/sizes/eModularFaceBrick.pdf"
+		},
+	"eKingsize":{
+		"nameLong":"Engineer Kingsize - 3 x 2-13/16 x 9-5/8",
+		"nameShort":"Engineer Kingsize",
+		"pLocation":"assets/sizes/eKingsizeFaceBrick.png",
+		"pdf":"assets/sizes/eKingsizeFaceBrick.pdf"
+		},
+	"norwegian":{
+		"nameLong":"Norwegian - 3-5/8 x 2-13/16 x 11-5/8",
+		"nameShort":"Norwegian",
+		"pLocation":"assets/sizes/norwegianFaceBrick.png",
+		"pdf":"assets/sizes/norwegianFaceBrick.pdf"
+		},
+	"closure":{
+		"nameLong":"Closure - 3-5/8 x 3-5/8 x 7-5/8",
+		"nameShort":"Closure",
+		"pLocation":"assets/sizes/closureFaceBrick.png",
+		"pdf":"assets/sizes/closureFaceBrick.pdf"
+		},	
+	"utility3":{
+		"nameLong":"3\" Utility - 3 x 3-5/8 x 11-5/8",
+		"nameShort":"3\" Utility",
+		"pLocation":"assets/sizes/3utilityFaceBrick.png",
+		"pdf":"assets/sizes/3utilityFaceBrick.pdf"
+		},
+	"utility":{
+		"nameLong":"Utility - 3-5/8 x 3-5/8 x 11-5/8",
+		"nameShort":"Utility",
+		"pLocation":"assets/sizes/utilityFaceBrick.png",
+		"pdf":"assets/sizes/utilityFaceBrick.pdf"
+		},
+	"meridian":{
+		"nameLong":"Meridian - 3-5/8 x 3-5/8 x 15-5/8",
+		"nameShort":"Meridian",
+		"pLocation":"assets/sizes/meridianFaceBrick.png",
+		"pdf":"assets/sizes/meridianFaceBrick.pdf"
+		},
+	"thruWall6":{
+		"nameLong":"6\" Thru The Wall - 5-5/8 x 3-5/8 x 11-5/8",
+		"nameShort":"6\" Thru The Wall",
+		"pLocation":"assets/sizes/6TTWFaceBrick.png",
+		"pdf":"assets/sizes/6TTWFaceBrick.pdf"
+		},
+	"thruWall8":{
+		"nameLong":"8\" Thru The Wall - 7-5/8 x 3-5/8 x 11-5/8",
+		"nameShort":"8\" Thru The Wall",
+		"pLocation":"assets/sizes/8TTWFaceBrick.png",
+		"pdf":"assets/sizes/8TTWFaceBrick.pdf"
+		},	
+	"tripleBrick":{
+		"nameLong":"Triple Brick - 3-5/8 x 7-5/8 x 7-5/8",
+		"nameShort":"Triple Brick",
+		"pLocation":"assets/sizes/tripleFaceBrick.png",
+		"pdf":"assets/sizes/tripleFaceBrick.pdf"
+		}	
+	},
+"thinBrick":{
+	"roman":{
+		"nameLong":"Roman - 1-5/8 x 11-5/8",
+		"nameShort":"Roman",
+		"pLocation":"assets/sizes/romanThinBrick.png",
+		"pdf":"assets/sizes/romanThinBrick.pdf"
+		},
+	"modular":{
+		"nameLong":"Modular - 2-1/4 x 7-5/8",
+		"nameShort":"Modular",
+		"pLocation":"assets/sizes/modularThinBrick.png",
+		"pdf":"assets/sizes/modularThinBrick.pdf"
+		},
+	"norman":{
+		"nameLong":"Norman - 2-1/4 x 11-5/8",
+		"nameShort":"Norman",
+		"pLocation":"assets/sizes/normanThinBrick.png",
+		"pdf":"assets/sizes/normanThinBrick.pdf"
+		},
+	"kingsize":{
+		"nameLong":"Kingsize - 2-5/8 x 9-5/8",
+		"nameShort":"Kingsize",
+		"pLocation":"assets/sizes/kingsizeThinBrick.png",
+		"pdf":"assets/sizes/kingsizeThinBrick.pdf"
+		},
+	"closure":{
+		"nameLong":"Closure - 3-5/8 x 7-5/8",
+		"nameShort":"Closure",
+		"pLocation":"assets/sizes/closureThinBrick.png",
+		"pdf":"assets/sizes/closureThinBrick.pdf"
+		},
+	"utility":{
+		"nameLong":"Utility - 3-5/8 x 11-5/8",
+		"nameShort":"Utility",
+		"pLocation":"assets/sizes/utilityThinBrick.png",
+		"pdf":"assets/sizes/utilityThinBrick.pdf"
+		},
+	"tripleBrick":{
+		"nameLong":"Triple Brick - 7-5/8 x 7-5/8",
+		"nameShort":"Triple Brick",
+		"pLocation":"assets/sizes/tripleThinBrick.png",
+		"pdf":"assets/sizes/tripleThinBrick.pdf"
+		},
+	"bc1-5_8x48":{
+		"nameLong":"Brick Corner BC1-5/8\" 48",
+		"nameShort":"BC1-5/8\" 48",
+		"pLocation":"assets/sizes/BC1-5_8x48.png",
+		"pdf":"assets/sizes/BC1-5_8x48.pdf"
+		},
+	"bc2-1_4x48":{
+		"nameLong":"Brick Corner BC2-1/4\" 48",
+		"nameShort":"BC2-1/4\" 48",
+		"pLocation":"assets/sizes/BC2-1_4x48.png",
+		"pdf":"assets/sizes/BC2-1_4x48.pdf"
+		},
+	"bc2-5_8x310":{
+		"nameLong":"Brick Corner BC2-5/8\" 310",
+		"nameShort":"BC2-5/8\" 310",
+		"pLocation":"assets/sizes/BC2-5_8x310.png",
+		"pdf":"assets/sizes/BC2-5_8x310.pdf"
+		},
+	"bc448":{
+		"nameLong":"Brick Corner BC448",
+		"nameShort":"BC1-5/8 48",
+		"pLocation":"assets/sizes/BC448.png",
+		"pdf":"assets/sizes/BC448.pdf"
+		},
+	"bc1-5_8x412":{
+		"nameLong":"Brick Corner BC1-5/8\" 412",
+		"nameShort":"BC1-5/8\" 412",
+		"pLocation":"assets/sizes/1-BC1-5_8x412.png",
+		"pdf":"assets/sizes/1-BC1-5_8x412.pdf"
+		},
+	"bc2-1_4x412":{
+		"nameLong":"Brick Corner BC2-1/4\" 412",
+		"nameShort":"BC2-1/4\" 412",
+		"pLocation":"assets/sizes/1-BC2-1_4x412.png",
+		"pdf":"assets/sizes/1-BC2-1_4x412.pdf"
+		},
+	"bc4412":{
+		"nameLong":"Brick Corner BC4412",
+		"nameShort":"BC4412",
+		"pLocation":"assets/sizes/1-BC4412.png",
+		"pdf":"assets/sizes/1-BC4412.pdf"
+		}																
+	},
+"pavers":{
+	"one1_4x3-5_8x7-5_8":{
+		"nameLong":"1-1/4\" x 3-5/8\" x 7-5/8\"",
+		"nameShort":"1-1/4\" x 3-5/8\" x 7-5/8\"",
+		"pLocation":"assets/sizes/1-1_4x3-5_8x7-5_8Paver.jpg",
+		"pdf":"assets/sizes/1-1_4x3-5_8x7-5_8Paver.pdf"
+		},
+	"two1_4x3-5_8x7-5_8":{
+		"nameLong":"2-1/4\" x 3-5/8\" x 7-5/8\"",
+		"nameShort":"2-1/4\" x 3-5/8\" x 7-5/8\"",
+		"pLocation":"assets/sizes/2-1_4x3-5_8x7-5_8Paver.jpg",
+		"pdf":"assets/sizes/2-1_4x3-5_8x7-5_8Paver.pdf"
+		},
+	"two1_4x4x8":{
+		"nameLong":"2-1/4\" x 4\" x 8\" INVISI-LUG&TRADE;",
+		"nameShort":"2-1/4\" x 4\" x 8\" INVISI-LUG&TRADE;",
+		"pLocation":"assets/sizes/2-1_4X4x8-INVISI-LUG-Paver.jpg",
+		"pdf":"assets/sizes/2-1_4X4x8-INVISI-LUG-Paver.pdf"
+		},
+	"two5_8x4x8":{
+		"nameLong":"2-5/8\" x 4\" x 8\" INVISI-LUG&TRADE;",
+		"nameShort":"2-5/8\" x 4\" x 8\" INVISI-LUG&TRADE;",
+		"pLocation":"assets/sizes/2-5_8x4x8-INVISI-LUG-Paver.jpg",
+		"pdf":"assets/sizes/2-5_8x4x8-INVISI-LUG-Paver.pdf"
+		},
+	"fourx8REL214":{
+		"nameLong":"2-1/4\" x 4\" x 8\" Relieved Edge Lugged",
+		"nameShort":"2-1/4\" R.E. Lugged",
+		"pLocation":"assets/sizes/2-14x4x8RelievedEdgeLuggedPaver.jpg",
+		"pdf":"assets/sizes/4x8RelievedEdgeLuggedPaver.pdf"
+		},
+	"fourx8REL258":{
+		"nameLong":"2-5/8\" x 4\" x 8\" Relieved Edge Lugged",
+		"nameShort":"2-5/8\" R.E. Lugged",
+		"pLocation":"assets/sizes/2-58x4x8RelievedEdgeLuggedPaver.jpg",
+		"pdf":"assets/sizes/2-58x4x8RelievedEdgeLuggedPaver.pdf"
+		},
+	"fourx8Permeable225":{
+		"nameLong":"2-1/4\" x 4\" x 8\" Permeable",
+		"nameShort":"4\" x 8\" Permeable",
+		"pLocation":"assets/sizes/2-14X4x8PermeablePaver.jpg",
+		"pdf":"assets/sizes/2-14X4x8PermeablePaver.pdf"
+		},
+	"fourx8Permeable258":{
+		"nameLong":"2-5/8\" x 4\" x 8\" Permeable",
+		"nameShort":"2-5/8\" R.E. Lugged",
+		"pLocation":"assets/sizes/2-584x8PermeablePaver.jpg",
+		"pdf":"assets/sizes/2-584x8PermeablePaver.pdf"
+		},
+	"two1_4x3-5_8x11-8_8":{
+		"nameLong":"2-1/4\" x 3-5/8\" x 11-5/8\" <br>Plank Paver",
+		"nameShort":"2-1/4\" x 3-5/8\" x 11-5/8\"<br> Plank Paver",
+		"pLocation":"assets/sizes/2-1_4x3-5_8x11-5_8Paver.jpg",
+		"pdf":"assets/sizes/2-1_4x3-5_8x11-5_8Paver.pdf"
+		},
+	"two1_4x4x12":{
+		"nameLong":"2-1/4\" x 4\" x 12\" INVISI-LUG&TRADE; <br> Plank Paver",
+		"nameShort":"2-1/4\" x 4\" x 12\" INVISI-LUG&TRADE;<br> Plank Paver",
+		"pLocation":"assets/sizes/2-1_4x4x12-INVISI-LUG-Paver.jpg",
+		"pdf":"assets/sizes/2-1_4x4x12-INVISI-LUG-Paver.pdf"
+		},
+		"two1_4x4x12rl":{
+		"nameLong":"2-1/4\" x 4\" x 12\" Relieved Edge Lugged<br> Plank Paver",
+		"nameShort":"2-1/4\" x 4\" x 12\" Relieved Edge Lugged <br>Plank Paver",
+		"pLocation":"assets/sizes/2-1_4x4x12RL.jpg",
+		"pdf":"assets/sizes/2-1_4x4x12RL.pdf"
+		},
+	"two1_4x8x8":{
+		"nameLong":"2-1/4\" x 8\" x 8\" INVISI-LUG&TRADE;",
+		"nameShort":"2-1/4\" x 8\" x 8\" INVISI-LUG&TRADE;",
+		"pLocation":"assets/sizes/2-1_4X8x8-INVISI-LUG-Paver.jpg",
+		"pdf":"assets/sizes/2-1_4X8x8-INVISI-LUG-Paver.pdf"
+		},
+	"two1_4x8x8rl":{
+		"nameLong":"2-1/4\" x 8\" x 8\" Relieved Edge Lugged",
+		"nameShort":"2-1/4\" x 8\" x 8\" Relieved Edge Lugged",
+		"pLocation":"assets/sizes/2-1_4Rel-Lug8x8.jpg",
+		"pdf":"assets/sizes/2-1_4Rel-Lug8x8.pdf"
+		},
+
+	"2-14ADA":{
+		"nameLong":"2-1/4\" Handicap Detectable Warning Pavers",
+		"nameShort":"2-1/4\" ADA Pavers",
+		"pLocation":"assets/sizes/2_14x4x8_ADAPaver.jpg",
+		"pdf":"assets/sizes/2_14x4x8_ADAPaver.pdf"
+		},
+	"2-14NomADA":{
+		"nameLong":"2-1/4\" Nominal Handicap Detectable Warning Pavers",
+		"nameShort":"2-1/4\" ADA Pavers",
+		"pLocation":"assets/sizes/2_14x4x8_nominal_ADAPaver.jpg",
+		"pdf":"assets/sizes/2_14x4x8_nominal_ADAPaver.pdf"
+		},
+	"paverTread":{
+		"nameLong":"Paver Step Tread",
+		"nameShort":"Paver Step Tread",
+		"pLocation":"assets/sizes/paverStepTread.png",
+		"pdf":"assets/sizes/paverStepTread.pdf"
+		}
+	},
+"tile":{
+	"fourx8":{
+		"nameLong":"4\" x 8\"",
+		"nameShort":"4\" x 8\"",
+		"pLocation":"assets/sizes/3-58X7-58Tile.png",
+		"pdf":"assets/sizes/3-58X7-58Tile.pdf"
+		},
+	"fourx12":{
+		"nameLong":"4\" x 12\"",
+		"nameShort":"4\" x 12\"",
+		"pLocation":"assets/sizes/3-58X11-58Tile.png",
+		"pdf":"assets/sizes/3-58X11-58Tile.pdf"
+		},
+	"eightx8":{
+		"nameLong":"8\" x 8\"",
+		"nameShort":"8\" x 8\"",
+		"pLocation":"assets/sizes/7-58X7-58Tile.png",
+		"pdf":"assets/sizes/7-58X7-58Tile.pdf"
+		},
+	"sb484":{
+		"nameLong":"SB484",
+		"nameShort":"SB484",
+		"pLocation":"assets/sizes/SB484Tile.jpg",
+		"pdf":"assets/sizes/SB484Tile.pdf"
+		},
+	"sb488":{
+		"nameLong":"SB488",
+		"nameShort":"SB488",
+		"pLocation":"assets/sizes/SB488Tile.jpg",
+		"pdf":"assets/sizes/SB488Tile.pdf"
+		},
+	"sb4848lr":{
+		"nameLong":"SB4848L\/R",
+		"nameShort":"SB4848L\/R",
+		"pLocation":"assets/sizes/SB4848LRTile.jpg",
+		"pdf":"assets/sizes/SB4848LRTile.pdf"
+		},
+	"sb4124":{
+		"nameLong":"SB4124",
+		"nameShort":"SB4124",
+		"pLocation":"assets/sizes/SB4124Tile.jpg",
+		"pdf":"assets/sizes/SB4124Tile.pdf"
+		},
+	"sb41212":{
+		"nameLong":"SB41212",
+		"nameShort":"SB41212",
+		"pLocation":"assets/sizes/SB41212Tile.jpg",
+		"pdf":"assets/sizes/SB41212Tile.pdf"
+		},
+	"sb412412lr":{
+		"nameLong":"SB412412L\/R",
+		"nameShort":"SB412412L\/R",
+		"pLocation":"assets/sizes/SB4121212LRTile.jpg",
+		"pdf":"assets/sizes/SB4121212LRTile.pdf"
+		},
+	"sb888":{
+		"nameLong":"SB888",
+		"nameShort":"SB888",
+		"pLocation":"assets/sizes/SB888Tile.jpg",
+		"pdf":"assets/sizes/SB888Tile.pdf"
+		},
+	"sb8888":{
+		"nameLong":"SB8888",
+		"nameShort":"SB8888",
+		"pLocation":"assets/sizes/SB8888Tile.jpg",
+		"pdf":"assets/sizes/SB8888Tile.pdf"
+		},
+	"cb68":{
+		"nameLong":"CB68",
+		"nameShort":"CB68",
+		"pLocation":"assets/sizes/CB68Tile.jpg",
+		"pdf":"assets/sizes/CB68Tile.pdf"
+		},
+	"cb68lr":{
+		"nameLong":"CB68L\/R",
+		"nameShort":"CB68L\/R",
+		"pLocation":"assets/sizes/CB68LRTile.jpg",
+		"pdf":"assets/sizes/CB68LRTile.pdf"
+		},
+	"tt488":{
+		"nameLong":"TT488",
+		"nameShort":"TT488",
+		"pLocation":"assets/sizes/TT488Tile.jpg",
+		"pdf":"assets/sizes/TT488Tile.pdf"
+		},
+	"tst488":{
+		"nameLong":"TST488",
+		"nameShort":"TST488",
+		"pLocation":"assets/sizes/TST488Tile.jpg",
+		"pdf":"assets/sizes/TST488Tile.pdf"
+		}
+	}
+}
