@@ -1,0 +1,103 @@
+<!DOCTYPE html >
+<html lang="en" ng-app="colorLoad">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Endicott Colors</title>
+		<meta name="description" content="Endicott brick colors.">
+		<meta name="author" content="jragland">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link type="text/css" rel="stylesheet" href="css/endicottFonts.css" />
+		<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/menu.v1.css" />
+		<script type="text/javascript" src="js/menu.v2.js"></script>	
+		<script type="text/javascript" src="js/angular.min.js"></script>
+		<script type="text/javascript" src="js/angular-filter-master/dist/angular-filter.min.js"></script>
+		<script type="text/javascript" src="js/colors.version2.2.js"></script>
+		<style>
+			html body{
+				margin:0px;
+				padding:0px;
+				border:0px;
+				overflow-x:hidden;
+			}
+			#holding_main{
+				width:100%;
+				color:black;
+				padding:0px;
+				margin:0px;
+				padding-top: 75px;				
+			}
+			.holder1{
+				background-color:white;
+				color:black;
+				width:101%;/*the extra 1% allows the holder to go behind the y axis slide bar and not wrap things in the wrong spot. */
+				padding:0px;
+				padding-left:2px;
+				margin:0px;
+				text-align:center;
+				white-space:normal;
+			}
+			figure{
+				display:inline-block;
+				margin:0px;
+				margin-right:3px;
+				padding:0px;
+				margin-top:5px;
+				width:100%;
+			}			
+			figure img{
+				margin:0px;
+				padding:0px;
+				width:100%;
+				cursor: pointer;
+				max-width:500px;*/
+			}
+			figcaption{
+				font-family:'endicottUnivers47Con';
+				text-align:center;
+			}
+			h2{
+				font-family:'endicottUnivers57Con';
+				margin:32px 0px 0px 10px;
+				font-size: 1.5em;
+			}
+			#filtCode{
+				display:inline-block;
+				width: 100%;
+				text-align:left;
+				margin-bottom:3px;
+				margin-left:10px;
+				height:50px;
+				margin-top:14px;
+			}
+			#filtCode p{
+				font-family:'endicottUnivers47Con';
+				display:inline-block;
+				margin-right:10px;
+				color:black;
+			}
+			.pageDescriptionECP{
+				margin-bottom:-5px;
+			}
+			.productDescription{
+				font-family:'endicottUnivers57Con';/* This will be depricated after Safari supports variables and IE11 and below are no longer used */
+				font-family:var(--univers_medium);
+				font-size:1.5em;
+				margin-left:30px;
+				color:black;
+				text-transform:uppercase;
+			}
+		</style>
+	</head>
+	<body ng-controller="colorControl">
+		<div id="holding_main">
+		</div>
+		<div id="copyright">Copywrite Endicott Clay Products Company</div>
+		<script type="text/javascript">
+			
+		</script>
+	</body>
+</html>

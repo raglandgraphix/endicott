@@ -198,7 +198,7 @@ $(function(){
 
 //---------------Google tag manager add to the highest point in the head and body---------------------
 
-	$('body').prepend('<!-- Google Tag Manager (noscript) --><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KTTHHV8\"height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id="menu_wrapper"><div id="fullLength"></div><div id="menu_header" ><div id="logo"><img src="assets/LogoE-White.png" /></div><div id="nav" ><img id="burger" src="assets/menuBar.gif"/></div><span></span></div></div>');
+	//$('body').prepend('<!-- Google Tag Manager (noscript) --><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KTTHHV8\"height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id="menu_wrapper"><div id="fullLength"></div><div id="menu_header" ><div id="logo"><img src="assets/LogoE-White.png" /></div><div id="nav" ><img id="burger" src="assets/menuBar.gif"/></div><span></span></div></div>');
 	function loadMenu1(callback){
 		$("#standard_submenu").remove();
 		$("#nav").empty().append('<img id="burger" src="assets/menuBar.gif"/>');
