@@ -5,9 +5,6 @@
 //   			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 // 			ga('create', 'UA-66547001-1', 'auto');
 //   			ga('send', 'pageview');
-
-
-
 //---------------This will put google analytics in all the pages that use this menu, which should be all ---------------------------
 
 $(function(){
@@ -24,26 +21,26 @@ $(function(){
 			'all':{
 				'title':'All Projects',
 				'id':'all_projects',
-				'url':'projects.html#?reload=true',
+				'url':'projects.html',
 				'storageItem':null
 
 			},
 			'facebrick':{
 				'title':'Face Brick',
 				'id':'facebrick_projects',
-				'url':'projects.html#?product=faceBrick&reload=true',
+				'url':'projects.html#?product=faceBrick',
 				'storageItem':'faceBrick'
 			},
 			'thinbrick':{
 				'title':'Thin Brick',
 				'id':'thinbrick_projects',
-				'url':'projects.html#?product=thinBrick&reload=true',
+				'url':'projects.html#?product=thinBrick',
 				'storageItem':'thinBrick'
 			},
 			'pavers':{
 				'title':'Pavers',
 				'id':'pavers_projects',
-				'url':'projects.html#?product=pavers&reload=true',
+				'url':'projects.html#?product=pavers',
 				'storageItem':'pavers'
 			}
 		},
@@ -183,22 +180,13 @@ $(function(){
 
 	//---------------Google tag manager add to the highest point in the head and body---------------------
 
-	$('head').prepend(`<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-KTTHHV8');</script>
-	<!-- End Google Tag Manager -->`);
-	 $('body').prepend(`<!-- Google Tag Manager (noscript) -->
-	 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTTHHV8"
-	 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	 <!-- End Google Tag Manager (noscript) -->`);
-// this was change to use GS4
+	$('head').prepend("<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KTTHHV8');</script><!-- End Google Tag Manager -->");
+	// $('body').prepend("");
+
 
 //---------------Google tag manager add to the highest point in the head and body---------------------
 
-	//$('body').prepend('<!-- Google Tag Manager (noscript) --><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KTTHHV8\"height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id="menu_wrapper"><div id="fullLength"></div><div id="menu_header" ><div id="logo"><img src="assets/LogoE-White.png" /></div><div id="nav" ><img id="burger" src="assets/menuBar.gif"/></div><span></span></div></div>');
+	$('body').prepend('<!-- Google Tag Manager (noscript) --><noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-KTTHHV8\"height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id="menu_wrapper"><div id="fullLength"></div><div id="menu_header" ><div id="logo"><img src="assets/LogoE-White.png" /></div><div id="nav" ><img id="burger" src="assets/menuBar.gif"/></div><span></span></div></div>');
 	function loadMenu1(callback){
 		$("#standard_submenu").remove();
 		$("#nav").empty().append('<img id="burger" src="assets/menuBar.gif"/>');
