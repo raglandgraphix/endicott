@@ -419,14 +419,22 @@
 			"colorVideoShort":"assets/video/colorVideoShorts/ravenswood_ironspot_short.mp4",
 			"texture":{
 			"mainThumb":"assets/faceBrick/ravenswood/ravenswoodvelfbMedium.jpg",
-			"mainTexture":"velour",
+			"mainTexture":"smooth",
+			"smooth":{
+				"textureName":"Smooth",
+				"textureImageThumb":"assets/faceBrick/ravenswood/",
+				"textureImageMain":"assets/faceBrick/ravenswood/ravenswoodsmofbLarge.jpg",
+				"availableSizes":["fbMod","fbNorm"],
+				"availableSizesFull":["Modular","Norman"],
+				"placement":1
+			},
 			"velour":{
 				"textureName":"Velour",
 				"textureImageThumb":"assets/faceBrick/ravenswood/ravenswoodvelfbMedium.jpg",
 				"textureImageMain":"assets/faceBrick/ravenswood/ravenswoodvelfbLarge.jpg",
-				"availableSizes":["fbMod"],
-				"availableSizesFull":["Modular"],
-				"placement":1
+				"availableSizes":["fbMod","fbNorm"],
+				"availableSizesFull":["Modular","Norman"],
+				"placement":2
 			}
 	}
 },
@@ -4050,7 +4058,7 @@
 				"textureImageThumb":"assets/pavers/copperCanyon/copperCanyonwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/copperCanyon/copperCanyonwirpvLarge.jpg",
 				"availableSizes":["2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-1_4x4x8RelievedLug","2-1_4x4x8Permeable","paverTread"],
-				"availableSizesFull":["2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","Paver Tread"],
+				"availableSizesFull":["2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4069,7 +4077,7 @@
 				"textureImageThumb":"assets/pavers/coppertone/coppertonewirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/coppertone/coppertonewirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; Plank Paver","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> Plank Paver","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4088,7 +4096,7 @@
 				"textureImageThumb":"assets/pavers/mediumIronspot77/mediumIronspot77wirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/mediumIronspot77/mediumIronspot77wirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade;<br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span><br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4107,7 +4115,7 @@
 				"textureImageThumb":"assets/pavers/mediumIronspot46/mediumIronspot46wirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/mediumIronspot46/mediumIronspot46wirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4126,7 +4134,7 @@
 				"textureImageThumb":"assets/pavers/darkIronspot/darkIronspotwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/darkIronspot/darkIronspotwirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4145,7 +4153,7 @@
 				"textureImageThumb":"assets/pavers/manganeseIronspot/manganeseIronspotwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/manganeseIronspot/manganeseIronspotwirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4164,7 +4172,7 @@
 				"textureImageThumb":"assets/pavers/roseBlend/roseBlendwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/roseBlend/roseBlendwirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4183,7 +4191,7 @@
 				"textureImageThumb":"assets/pavers/redBlend/redBlendwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/redBlend/redBlendwirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4202,7 +4210,7 @@
 				"textureImageThumb":"assets/pavers/burgundyBlend/burgundyBlendwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/burgundyBlend/burgundyBlendwirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-5_8x4x8invisilug","2-1_4x4x8RelievedLug","2-5_8x4x8RelievedLug","2-1_4x4x8Permeable","2-5_8x4x8Permeable","2-1_4x3-5_8x11-5_8Paver","2-1_4x4x12invisilug","2-1_4x8x8invisilug","2-1_4Rel-Lug8x8","214ADAPaver","214NomADAPaver","2-1_4Rel-Lug4x12","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-5/8\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG&trade; <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG&trade;"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-5/8\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-5/8\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","2-5/8\" x 4\" x 8\" Permeable","2-1/4\" x 3-5/8\" x 11-5/8\" Plank Paver","2-1/4\" x 4\" x 12\" <br> INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver","2-1/4\" x 8\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>"," 2-1/4\" X 8\" X 8\" Relieved Edge Lugged","2-1/4\" Handicap Detectable","2-1/4\" Nominal Handicap Detectable","2-1/4\" x 4\" x 12\" <br> Relieved Edge Lugged <br> Plank Paver","Paver Tread"],
 				"placement":1
 			}
 }
@@ -4221,7 +4229,7 @@
 				"textureImageThumb":"assets/pavers/bordeauxBlend/bordeauxBlendwirpvMedium.jpg",
 				"textureImageMain":"assets/pavers/bordeauxBlend/bordeauxBlendwirpvLarge.jpg",
 				"availableSizes":["1-1_4x3-5_8x7-5_8","2-1_4x3-5_8x7-5_8","2-1_4x4x8invisiLug","2-1_4x4x8RelievedLug","2-1_4x4x8Permeable","paverTread"],
-				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG&trade;","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","Paver Tread"],
+				"availableSizesFull":["1-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 3-5/8\" x 7-5/8\"","2-1/4\" x 4\" x 8\" <br> INVISI-LUG<span class='regSym'>&REG;</span>","2-1/4\" x 4\" x 8\" Relieved Edge Lugged","2-1/4\" x 4\" x 8\" Permeable","Paver Tread"],
 				"placement":1
 			}
 }

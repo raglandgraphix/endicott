@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ravenswood Ironspot</title>
+    <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+    <style>
+        .container-fluid{
+            padding: 0;
+        }
+        .navbar{
+            height: 100px;
+            padding:0px;
+            margin:0px;
+            width: 100vw;
+        }
+        #logo{
+            max-height: 50px;
+        }
+        .socialIcon{
+            height: 35px;
+        }
+        #information{
+            /* position: fixed;
+            
+            margin-top: 100px;
+            margin-left: 100px; */
+            z-index: 1;
+            
+            height: 320px;
+           
+        }
+        
+
+    </style>
+</head>
+<body>
+    <!-- Button trigger modal -->
+<!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Launch demo modal
+  </button> -->
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Contact Information</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body text-center">
+            <form class="">
+                <div class="form-group mb-3"><label class="me-2">First Name</label><input class="form-control"  type="text" value=""></div>
+                <div class="form-group mb-3 "><label class="me-2">Last Name</label><input class="form-control" type="text" value=""></div>
+                <div class="form-group mb-3"><label class="me-2">Company</label><input class="form-control" type="text" value=""></div>
+                <div class="form-group mb-3"><label class="me-2">Email Address</label><input class="form-control" type="text" value=""></div>
+                <div class="form-group"><label class="me-2">City</label><input class="form-control" type="text" value="">
+                <label>State or Province</label>
+                <select class="mt-2">
+                    <optgroup label="United States">
+                    <option>Alabama</option>
+                    <option>Alaska</option>
+                    <option>Arkansas</option>
+                    <option>California</option>
+                    <option>Colorado</option>
+                    <option>Connecticut</option>
+                    <option>Deleware</option>
+                    <option>Florida</option>
+                    <option>Georgia</option>
+                    <option>Hawaii</option>
+                    <option>Idaho</option>
+                    <option>Illinois</option>
+                    <option>Indiana</option>
+                    <option>Iowa</option>
+                    <option>Kansas</option>
+                    <option>Kentucky</option>
+                    <option>Louisiana</option>
+                    <option>Maine</option>
+                    <option>Maryland</option>
+                    <option>Massechusetts</option>
+                    <option>Michigan</option>
+                    <option>Nebraska</option>
+                    <option>Minnesota</option>
+                    <option>Mississippi</option>
+                    <option>Missouri</option>
+                    <option>Montana</option>
+                    <option>Nebraska</option>
+                    <option>Nevada</option>
+                    <option>New Hampshire</option>
+                    <option>New Jersey</option>
+                    <option>New Mexico</option>
+                    <option>New York</option>
+                    <option>North Carolina</option>
+                    <option>North Dakota</option>
+                    <option>Ohio</option>
+                    <option>Oklahoma</option>
+                    <option>Oregon</option>
+                    <option>Pennsylvania</option>
+                    <option>Rhode Island</option>
+                    <option>South Carolina</option>
+                    <option>South Dakota</option>
+                    <option>Tennessee</option>
+                    <option>Texas</option>
+                    <option>Utah</option>
+                    <option>Vermont</option>
+                    <option>Virginia</option>
+                    <option>Washington</option>
+                    <option>West Virgina</option>
+                    <option>Wisconsin</option>
+                    <option>Wyoming</option>
+                </optgroup>
+                <optgroup label="Canadian Province">
+                    <option>Alberta</option>
+                    <option>British Columbia</option>
+                    <option>Manitoba</option>
+                    <option>New brunswick</option>
+                    <option>Newfoundland</option>
+                    <option>Labrador</option>
+                    <option>Nova Scotia</option>
+                    <option>Ontario</option>
+                    <option>Prince Edward Island</option>
+                    <option>Quebec</option>
+                    <option> Saskatchewan</option>
+                    <option>Yukon</option>
+                </optgroup>
+                </select></div>
+            
+            </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+   <!-- <div class="row position-fixed w-100 justify-content-center mt-3 d-none" id="information">
+    <div class="col-6 border bg-secondary">
+        <div class="row border-bottom">
+            <div class="col-10 text-center">
+                <h4 class="text-uppercase">Contact Information</h4>
+               
+            </div>
+            <div class="col-2 text-center">
+                
+                <p>CLOSE</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+              
+            </div>
+        </div>
+        
+
+    </div>
+    
+
+   </div> -->
+        <div class="navbar border-bottom border-dark d-flex justify-content-center">          
+            <img id="logo" src="assets/endicottLogoBlack.png"/>
+        </div>
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-10 text-center ">
+                    <h1 class="text-uppercase">Ravenswood Ironspot</h1>
+                    <p>Drawing inspiration from the iridescent feathers of a raven, this one-of-a-kind look gives off fleeting shades of black, gunmetal, silver, and indigo.  Endicott’s Ravenswood Ironspot is a through body black brick that exhibits a complex and moving blend of natural surface colors without the drawbacks of a coating.</p>
+                   
+                           
+                            <button type="button" class="btn btn-secondary mb-5 " data-bs-toggle="modal" data-bs-target="#exampleModal">Learn More</button>
+                           
+        
+                      
+                    <h5 class="text-uppercase">Available in 2 sizes and 2 textures</h5>
+                </div>
+            </div>
+           
+            <!-- This is where the images will be held-->
+            <div class="row d-flex justify-content-center">
+               
+
+                <div class="col-5">
+                    <div class="card mb-2">
+                        <img  class="img-responsive w-100" src="assets/ravenswoodsmofbLarge.jpg"/>
+                        <div class="card-body">
+                            <h5 class="text-center">Modular - Smooth</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5">
+                    <div class="card mb-2">
+                        <img  class="img-responsive w-100" src="assets/ravenswoodvelfbLarge.jpg"/>
+                        <div class="card-body">
+                            <h5 class="text-center">Modular - Velour</h5>
+                        </div>
+                    </div>
+                </div>   
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-8">
+                    <img  class="img-responsive w-100" src="assets/ravenswoodvelNormanfbLarge.jpg"/>
+                        <div class="card-body">
+                            <h5 class="text-center">Norman - Velour</h5>
+                        </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-10 text-center">
+                    <h3 class="mt-5">Project Spotlight Video</h3>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705893086?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Endicott Ravenswood Ironspot"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+                      </div>       
+                </div>
+            </div>            
+            <div class="row mt-5 text-center justify-content-center">
+                <div class="col-10">
+                   
+                    <h3>Ravenswood Ironspot Project Photography</h3>
+                    <img class="img-responsive w-100 " src="assets/peabody1.jpg"/>
+
+
+                </div>
+            </div>
+            <div class="row text-center ">
+                <div class="col-12">
+                    <button type="button" class="btn btn-secondary mt-5 mb-5">See More</button>
+
+                </div>
+
+            </div>
+            <div class="row text-center ">
+                <div class="col-12 border bg-secondary">
+                <img class="socialIcon mt-2 mb-2 me-3" src="assets/socialIcons/facebook.png"/>
+                <img class="socialIcon mt-2 mb-2 me-3" src="assets/socialIcons/blackLinkedIn.png"/>
+                <img class="socialIcon mt-2 mb-2 me-3" src="assets/socialIcons/twitter.png"/>
+                <img class="socialIcon mt-2 mb-2 me-3" src="assets/socialIcons/Instagram.png"/>
+                <img class="socialIcon mt-2 mb-2 me-3" src="assets/socialIcons/youtube.png"/>
+                <img class="socialIcon mt-2 mb-2 " src="assets/socialIcons/Black_Mortarr_Logo.png"/>                    
+
+                </div>
+
+            </div>
+           
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+   
+    
+</body>
+</html>

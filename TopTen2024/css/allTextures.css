@@ -1,0 +1,29 @@
+body{
+	margin:0px;
+	padding:0px;
+	background:#ededed;
+	color:black;
+}			
+#holderWrapper{
+	display:inline-block;
+	width:100%;
+	height:auto;
+	text-align:center;	
+	white-space: normal;
+}
+.contentBox{
+	height:auto;
+	position:relative;
+	display:inline-block;
+	font-family: 'endicottUnivers47Con';
+	margin:5px 10px 5px 10px;
+}
+.contentBox img{
+	cursor:pointer;
+}
+.pageDescriptionECP{
+	font-family:'endicottUnivers57Con';
+	font-size:1.5em;
+	margin-left:30px;
+	color:black;
+}

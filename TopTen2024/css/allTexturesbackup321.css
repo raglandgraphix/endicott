@@ -1,0 +1,29 @@
+body{
+	margin:0px;
+	padding:0px;
+	background:black;
+	color:white;
+	/*text-align:center;*/
+}			
+#holderWrapper{
+	display:inline-block;
+	width:100%;
+	height:auto;
+	text-align:center;	
+	white-space: normal;
+	
+	
+}
+.contentBox{
+	height:auto;
+	position:relative;
+	display:inline-block;
+	font-family: 'endicottBook';
+	margin:5px 10px 5px 10px;
+	/*z-index: -1;*/
+}
+.contentBox img{
+	cursor:pointer;
+	
+	
+}

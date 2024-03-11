@@ -1,0 +1,131 @@
+body{
+	background:black;
+	margin:0px;
+	padding:0px;				
+}			
+#employHolder{
+	margin:20px;
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	position: relative;
+	left:0px;
+	margin-left:0px;
+	
+	
+}
+#scrollHolder{
+	float:left;
+	width:100%;
+	height:300px;
+	overflow:hidden;
+}
+#inner2{
+	position:relative;
+	width:2000px;
+	overflow:scroll;
+	overflow-y:hidden;				
+}
+#inner2 img{
+	background:url('../assets/loader.gif')no-repeat center;
+	width:500px;
+	height:auto;
+	float:left;
+	display:inline-block;
+}
+#right{
+	position:absolute;
+	right:20px;
+	z-index: 1;
+	top:100px;
+	height:50px;
+	width:50px;
+	outline:0;
+	padding:0;
+	cursor:pointer;
+	background:none;
+	border:none;
+}
+#right img{
+	width:50px;
+	height:50px;				
+}
+#left{
+	position:absolute;
+	left:20px;
+	z-index: 1;
+	top:100px;
+	height:50px;
+	width:50px;
+	background:none;
+	border:none;
+	padding:0;
+	cursor:pointer;
+	outline:0;
+	
+}
+#left img{
+	width:50px;
+	height:50px;				
+}
+.pic{
+	width:auto;
+	height:1px;
+	padding:0px;
+	margin:0px;
+				
+}
+#aboutCopy{
+	font-family:'endicottUnivers47Con';
+	color:white;
+	float:left;
+	width:95%;
+	height:auto;
+	margin:25px;
+	margin-right:50px;
+	line-height:2em;
+	font-size: 1em;
+	white-space:normal;
+	
+	
+	
+}
+#aboutCopy p{
+	
+	line-height:1.3em;
+	font-size: 1.2em;
+	text-align:left;
+	margin:0px 15px 0px 25px;
+	
+}
+
+#playerButtons{
+	width:100%;
+	height:75px;
+	position:relative;
+	z-index:1;
+	overflow:hidden;
+	text-align:center;
+	
+}
+
+/*#playerButtons img{
+	width:50px;
+	height: 50px;
+	
+}*/
+
+.playerButtons2{
+	position:relative;
+	display:inline-block;
+		width:50px;
+	height:50px;
+	cursor:pointer;
+	
+	
+}
+.playerButtons2 img{
+	width:100%;
+	height:auto;
+	
+}

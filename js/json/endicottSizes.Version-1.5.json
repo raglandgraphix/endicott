@@ -196,14 +196,14 @@
 		"pdf":"assets/sizes/2-1_4x3-5_8x7-5_8Paver.pdf"
 		},
 	"two1_4x4x8":{
-		"nameLong":"2-1/4\" x 4\" x 8\" INVISI-LUG&TRADE;",
-		"nameShort":"2-1/4\" x 4\" x 8\" INVISI-LUG&TRADE;",
+		"nameLong":"2-1/4\" x 4\" x 8\" INVISI-LUG<span class='regSym'>&REG;</span>",
+		"nameShort":"2-1/4\" x 4\" x 8\" INVISI-LUG<span class='regSym'>&REG;</span>",
 		"pLocation":"assets/sizes/2-1_4X4x8-INVISI-LUG-Paver.jpg",
 		"pdf":"assets/sizes/2-1_4X4x8-INVISI-LUG-Paver.pdf"
 		},
 	"two5_8x4x8":{
-		"nameLong":"2-5/8\" x 4\" x 8\" INVISI-LUG&TRADE;",
-		"nameShort":"2-5/8\" x 4\" x 8\" INVISI-LUG&TRADE;",
+		"nameLong":"2-5/8\" x 4\" x 8\" INVISI-LUG<span class='regSym'>&REG;</span>",
+		"nameShort":"2-5/8\" x 4\" x 8\" INVISI-LUG<span class='regSym'>&REG;</span>",
 		"pLocation":"assets/sizes/2-5_8x4x8-INVISI-LUG-Paver.jpg",
 		"pdf":"assets/sizes/2-5_8x4x8-INVISI-LUG-Paver.pdf"
 		},
@@ -238,8 +238,8 @@
 		"pdf":"assets/sizes/2-1_4x3-5_8x11-5_8Paver.pdf"
 		},
 	"two1_4x4x12":{
-		"nameLong":"2-1/4\" x 4\" x 12\" INVISI-LUG&TRADE; <br> Plank Paver",
-		"nameShort":"2-1/4\" x 4\" x 12\" INVISI-LUG&TRADE;<br> Plank Paver",
+		"nameLong":"2-1/4\" x 4\" x 12\" INVISI-LUG<span class='regSym'>&REG;</span> <br> Plank Paver",
+		"nameShort":"2-1/4\" x 4\" x 12\" INVISI-LUG<span class='regSym'>&REG;</span><br> Plank Paver",
 		"pLocation":"assets/sizes/2-1_4x4x12-INVISI-LUG-Paver.jpg",
 		"pdf":"assets/sizes/2-1_4x4x12-INVISI-LUG-Paver.pdf"
 		},
@@ -250,8 +250,8 @@
 		"pdf":"assets/sizes/2-1_4x4x12RL.pdf"
 		},
 	"two1_4x8x8":{
-		"nameLong":"2-1/4\" x 8\" x 8\" INVISI-LUG&TRADE;",
-		"nameShort":"2-1/4\" x 8\" x 8\" INVISI-LUG&TRADE;",
+		"nameLong":"2-1/4\" x 8\" x 8\" INVISI-LUG<span class='regSym'>&REG;</span>",
+		"nameShort":"2-1/4\" x 8\" x 8\" INVISI-LUG<span class='regSym'>&REG;</span>",
 		"pLocation":"assets/sizes/2-1_4X8x8-INVISI-LUG-Paver.jpg",
 		"pdf":"assets/sizes/2-1_4X8x8-INVISI-LUG-Paver.pdf"
 		},

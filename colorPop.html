@@ -1,0 +1,495 @@
+<!DOCTYPE html >
+<html lang="en" >
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>Endicott Colors</title>
+		<meta name="description" content="">
+		<meta name="author" content="jragland">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<!-- <link type="text/css" rel="stylesheet" href="css/headerFooter.css" /> -->
+		<link type="text/css" rel="stylesheet" href="css/endicottFonts.css" />
+		<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/menu.v1.css" />
+		<script type="text/javascript" src="js/menu.v2.js"></script>	
+		<script type="text/javascript" src="js/angular.min.js"></script>
+		<script type="text/javascript" src="js/angular-filter-master/dist/angular-filter.min.js"></script>
+		<script type="text/javascript" src="js/colorPop.version2.2.js"></script>
+		<style>
+			html body{
+				max-width:100%;
+				/*text-align:center;*/
+				/*color:black;*/
+				overflow-x: hidden;
+				font-family:'endicottUnivers47Con';
+				padding: 0px;
+				margin: 0px;
+			}			
+			#pageName{
+				text-align:left;
+				
+			}
+			#figureCall_colorPop{
+				position: relative;
+				margin:0px;
+				padding:0px;
+				display:inline-block;
+				 width:100%;
+				
+				 
+				
+				 
+			}
+
+			#large_colorPop{
+				width:100%;
+				padding:0px;
+				margin:0px;
+				opacity: 0;
+				border: 2px solid black;
+				
+				
+			}
+
+			#listHolder{
+				width:100%;
+				display:inline-block;
+				vertical-align:top;
+				
+				margin-left:10px;
+				
+			}
+			#sizesCall_colorPop{
+				width:45%;
+				max-width:150px;
+				display:inline-block;
+				vertical-align:top;
+				border:thin black solid;
+				padding:10px;
+			}
+			#sizesCall_colorPop p{
+				text-align:left;
+				cursor:pointer;
+			}
+			#allTexturesCall_colorPop{
+				width:25%;
+				max-width:150px;
+				display:inline-block;
+				vertical-align:top;
+				border:thin black solid;
+				padding:10px;
+			}
+			#allTexturesCall_colorPop p{
+				text-align:left;
+				cursor:pointer;
+			}
+			#sizeHolder_colorPop{
+				width:100%;
+				background:rgba(0,0,0,.8);
+				height: 100vh;
+				visibility:hidden;
+				position:absolute;
+				z-index: 1;
+				margin-left:0;
+				
+				
+				
+				
+			}
+			#allThicknessCall_colorPop{
+				display:inline-block;
+				vertical-align:top;
+				border:thin black solid;
+				padding:10px;
+				width:25%;
+				max-width:150px;
+				/*margin-left:-20px;*/
+			}
+			
+			#allThicknessCall_colorPop p{
+				cursor:pointer;
+			}
+			
+			#toolBar_colorPop{
+				margin-top:60px;
+				display:inline-block;
+				position: relative;
+				
+				height: auto;
+				width:60%;
+				background:grey;
+				
+			}
+			
+			#imagePop_colorPop{
+				width:100%;
+			}
+			.tools_colorPop{
+				float:right;
+				height:25px;
+				margin:2px;
+				cursor:pointer;
+			}
+			#t12Thick{
+				background:none;
+			}
+			#t58Thick{
+				background:none;
+			}
+			#t1Thick{
+				background:none;
+			}
+			#holder_colorPop{
+				margin:0;
+				padding:0;
+				
+				
+				
+				
+			}
+			#reset{
+				color:tan;
+			}
+			
+			h2{
+				font-family:'endicottUnivers57Con';
+			}
+			h3{
+				font-family:'endicottUnivers57Con';
+			}
+			/*p{
+				font-family:'endicottUnivers47Con';
+			}*/
+			#sendMe{
+				width:150px;
+				height:25px;
+				float:right;
+				background:grey;
+				margin-top:-20px;
+				margin-bottom:15px;
+				cursor:pointer;
+			}
+			#linkPop{
+				position:absolute;
+				margin-left:10%;
+				top:200px;
+				width:50%;
+				height:200px;
+				background-color:white;
+				border:thick solid grey;
+				color:black;
+				visibility: hidden;
+				
+			}
+			#urlLink{
+				border:none;
+				border-bottom:solid thin grey;
+				width:85%;
+			}
+			#copyInput{
+				cursor:pointer;
+				font-family: 'endicottUnivers57Con';
+				color:blue;
+			}
+			#closeBox{
+				position:absolute;
+				float:right;
+				right:20px;
+				cursor: pointer;
+			}
+			#wrapper_colorPop{
+				white-space: normal;
+				text-align:center;
+				color: black;
+
+			}
+			/*#inset_video{
+				
+				position: absolute;
+				right:30px;
+				top:10px;
+				border: white solid thick;
+				cursor: pointer;
+				width: 240px;
+				
+				z-index: 1;
+				padding: 0px;
+				margin:0px;
+				
+
+			}*/
+			#inset_Frame{
+				visibility: hidden;
+			/*	border: solid thick white;
+				padding: 0px;
+				margin:0px;
+				position: absolute;
+				right:30px;
+				top:10px;*/
+				
+			}
+			#figHold{
+				width: 240px;
+				height:135px;
+			}
+			#dropDown{
+				
+				background-color: white;
+			}
+			#moreVids{
+				padding: 0px;
+				margin: 0px;
+			}
+			#image_Frame{
+				position: absolute;
+				left: 0px;
+				visibility: hidden;
+				width: 100%;
+				object-fit: cover;
+			
+			}
+			#tabHolder{
+				position: relative;
+				text-align: right;
+				width: 100%;				
+				display: inline-block;
+				height: 20px;
+				
+				
+			}
+			.tabs{
+				height: 20px;
+				
+				border-top-left-radius: 5px;
+				border-top-right-radius: 5px;
+				text-align: center;
+				width: 140px;
+				background-color: black;
+				color: white;
+				padding: 5px;
+				vertical-align: bottom;
+				cursor: pointer;
+				display: inline-block;
+				margin-right: -4px;
+				border: thin solid grey;
+				border-bottom: none;
+
+
+			}
+			#mediaHolder{
+				position: absolute;
+				width: 300px;
+				height:auto;
+				background-color: white;
+				top: 33px;
+				right: 0px;
+				box-shadow: -10px 10px 10px black;
+				text-align: center;
+				visibility: hidden;
+				border: grey thick solid;
+				border-top: none;
+				overflow: hidden;
+				
+				
+				
+			}
+			#mediaCover{
+				position: absolute;
+				width: 300px;
+				height:200px;
+				background-color: white;
+				top: 33px;
+				right: 0px;
+				box-shadow: 10px 5px 5px black;
+				text-align: center;
+				cursor: pointer;
+				z-index: 1;
+				opacity: 0;
+				visibility: hidden;
+
+				
+
+			}
+			#lightBox{
+				position: absolute;
+				top: 10vh;
+				left: 2vw;
+				width: 95vw;
+				height: 90vh;
+				background-color: black;
+				padding: 0;
+			}
+			#lightBox iframe{
+				position: relative;
+				float: left;
+				
+				width: 95%;
+				height: 100%;
+				
+			}
+			#lightBoxVidBar{
+				display: inline-block;
+				position: relative;
+				width: 5%;
+				height: 100%;
+				background-color: grey;
+				color: white;
+				text-align: center;
+			}
+			.lightBarClick{
+				cursor: pointer;
+			}
+			#speakerOn{
+				width: 60%;
+			}
+			.regSym{
+				font-size: 1.3em;
+			}
+		</style>
+		
+		
+	</head>
+
+	<body>
+
+
+		<div id="sizeHolder_colorPop">
+			<div id="toolBar_colorPop">
+				<img class="tools_colorPop" id="close_colorPop" src="assets/closeX.png" />
+				<img class="tools_colorPop" id="print_colorPop" src="assets/print.png" />
+			</div>
+			
+		</div>
+		<div id="holding_main">	
+			
+		<div id="wrapper_colorPop">
+			
+			<p class="pageDescriptionECP" id="pageName">Desert Ironspot Light</p>
+			<div id="holder_colorPop">
+				<figure id="figureCall_colorPop">
+					
+					<div id="tabHolder">
+						<!-- <div id="videoTab" class="tabs">VIDEOS</div> -->
+						<!-- <div id="projectsTab" class="tabs">PROJECTS</div> -->
+					</div>
+					
+					<img id="large_colorPop" src="" />
+					<figcaption id="textureCall_colorPop"></figcaption>
+					<div id="sendMe">SHARE</div>
+					<div id="mediaCover">
+						
+					</div>
+					<div id="mediaHolder">
+						
+						<!-- <iframe id="inset_Frame" src="" width="300" height="169" frameborder="0"webkitallowfullscreen mozallowfullscreen allowfullscreen > -->
+							<video id="inset_Frame"  width="300" height="169" autoplay muted loop playsinline>
+								
+
+							</video> 
+						<img id="image_Frame" width="200" height="200" src="">
+					</div>
+				</figure>
+				
+				<div id="listHolder">
+					<p id="selectStart"></p>
+					<div id="allTexturesCall_colorPop"><h3 id="sizeList_colorPop">Textures</h3><p>Smooth</p><p>Velour</p></div>
+					<div id="sizesCall_colorPop"><h3 id="sizeList_colorPop">Sizes</h3><p>modular</p><p>another size</p></div>
+				</div>
+			</div>
+				
+		</div>
+		<div id="linkPop">
+			<p id="closeBox">CLOSE</p>
+			<h3>Share</h3>
+			<form>
+				<p>Send a link</p><input id="urlLink" type="text" name="urlLink" value="" />
+			</form>
+			<p id="copyInput">Copy Url</p>
+		</div>
+		</div>
+		
+		<script>
+
+			$(function(){
+
+				// function lightBox(videoSize){
+				// 	$("body").append('<div id="lightBox"><iframe id="vid" src="https://player.vimeo.com/video/700570829?autoplay=1&title=0&byline=0&portrait=0&muted=1&loop=1&controls=1"  frameborder="0"webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><div id="lightBoxVidBar"><p class="lightBarClick">CLOSE</p></div> </div>');
+				// //$("#vid").prop('muted',true);
+				// $(".lightBarClick").on('click',function(){
+				// 	$("#lightBox").remove();
+
+				// });
+				// $(document).mouseup(function(e){
+				// 	var targetDiv = e.target.id;
+				// 	 if(targetDiv!=='lightBoxVidBar'){
+				// 	 	$("#lightBox").remove();
+				// 	 }
+
+					
+				// });
+
+				
+				// };
+
+				// $("#videoTab").mouseenter(function(event) {
+				// 	$("#mediaHolder, #mediaCover, #inset_Frame").css({'visibility':'visible'});
+				// }).mouseleave(function(event) {
+				// 	$("#mediaHolder, #mediaCover, #inset_Frame").css({'visibility':'hidden'});
+				// }).on('click',function(){lightBox()});
+
+				// $("#projectsTab").mouseenter(function(event) {
+				// 	$("#mediaHolder, #mediaCover, #image_Frame").css({'visibility':'visible'});
+				// }).mouseleave(function(event) {
+				// 	$("#mediaHolder, #mediaCover, #image_Frame").css({'visibility':'hidden'});
+				// });
+
+				
+
+				
+				
+
+			});
+
+
+		var windowWidth = $(window).width();
+		
+		if(windowWidth>=640 && windowWidth<1200){
+			$("#figureCall_colorPop").css({'width':'50%'});
+			$("#listHolder").css({'width':'45%'});
+		}else if(windowWidth>=1200){
+			$("#figureCall_colorPop").css({'width':'70%'});
+			$("#listHolder").css({'width':'25%'});
+		}
+		$(window).bind('resize',changeSize_pop);
+function changeSize_pop(e){
+	var windowWidth = $(window).width();
+	if(windowWidth>=640 && windowWidth<1200){
+			$("#figureCall_colorPop").css({'width':'50%'});
+			$("#listHolder").css({'width':'45%'});
+		}else if(windowWidth>=1200){
+			$("#figureCall_colorPop").css({'width':'70%'});
+			$("#listHolder").css({'width':'25%'});
+		}else if(windowWidth<640){
+			$("#figureCall_colorPop").css({'width':'100%'});
+			$("#listHolder").css({'width':'100%'});
+		}
+}
+
+
+		
+			
+		</script>
+		
+		<div id="copyright">Copywrite Endicott Clay Products Company</div>
+	</body>
+	
+</html>

@@ -1,0 +1,69 @@
+/*Endicott Sass Template*/
+/* This Sass/css template was designed by John M. Ragland, Ragland Graphix LLC, raglandgrphix.com for Endicott Clay Products Company, any intentional reproduction is strictly forbidden.  */
+/*fonts are controled by fonts.com*/
+/*standard fonts for this site are ITC Legacy Sans Book, ITC Legacy Sans Medium, ITC Legacy Sans Bold : an addition is made in the head of the html to call it.*/
+/*Endicott Sass Template*/
+/* This Sass/css template was designed by John M. Ragland, Ragland Graphix LLC, raglandgrphix.com for Endicott Clay Products Company, any intentional reproduction is strictly forbidden.  */
+/*fonts are controled by fonts.com*/
+/*standard fonts for this site are ITC Legacy Sans Book, ITC Legacy Sans Medium, ITC Legacy Sans Bold : an addition is made in the head of the html to call it.*/
+/*fonts for endicott pages*/
+
+body {
+ 
+  overflow-x: hidden;
+  white-space: normal;
+}
+#productHolder{
+	width:100%;
+  	color:black;
+  	text-align:center;
+  	z-index: -2;
+  	white-space: normal;
+}
+#pageCallout{
+	color:black;
+	font-family:'endicottUnivers67Bold';
+	font-size: 1.2em;
+	text-align:center;
+}
+#bimText{
+	width:95%;
+	color:black;
+	white-space:normal;
+}
+#bimText p{
+	text-align:center;
+	margin: 0px 30px 0px 30px;
+	font-family:'endicottUnivers47Con';
+}
+.productCenter {
+ 	width: 33%;
+ 	height: auto;
+ 	min-width: 160px;
+	cursor: pointer;
+	overflow: hidden;
+	margin-top: 25px;
+	display: inline-block;
+	background:none;
+}
+.productCenter a{
+	text-decoration: none;
+}
+.productCenter img {
+	max-width: 300px;
+    min-width: 150px;
+    border-radius: 8%;
+    margin-bottom: 10px;
+    width: 100%;
+    height: auto;
+	color: black;
+/*This pie behavior allows CSS3 Funcitonality in IE8 an Below.*/ }
+.productCenter p {
+	margin-top: 0;
+	text-align: center;
+	border-radius: 5px;
+	z-index: -1;
+	color: black;
+	font-family:'endicottUnivers47Con';
+}
+	
