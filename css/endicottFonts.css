@@ -1,0 +1,82 @@
+/*endicottBook is ITC Legacy Sans Book*/
+@font-face {
+	font-family: 'endicottBook';
+	src: url("../fonts/itcLegacySansBook.eot");
+	src: url("../fonts/itcLegacySansBook.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansBook.woff") format("woff"), url("../fonts/itcLegacySansBook.ttf") format("truetype"), url("/fonts/itcLegacySansBook.svg") format("svg"); 
+}
+/*endicottMedium is ITC Legacy Sans Medium*/
+@font-face {
+	font-family: 'endicottMedium';
+	src: url("../fonts/itcLegacySansMedium.eot");
+	src: url("../fonts/itcLegacySansMedium.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansMedium.woff") format("woff"), url("../fonts/itcLegacySansMedium.ttf") format("truetype"), url("../fonts/itcLegacySansMedium.svg") format("svg"); 
+}
+/*endicottBold is ITC Legacy Sans Bold*/
+@font-face {
+	font-family: 'endicottBold';
+	src: url("../fonts/itcLegacySansBold.eot");
+	src: url("../fonts/itcLegacySansBold.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansBold.woff") format("woff"), url("../fonts/itcLegacySansBold.ttf") format("truetype"), url("../fonts/itcLegacySansBold.svg") format("svg"); 
+}
+/*endicottJefferson is used for Jefferson series*/
+@font-face {
+	font-family: 'endicottJefferson';
+	src: url("../fonts/Jeffrson.eot");
+	src: url("../fonts/Jeffrson.eot?#iefix") format("embedded-opentype"), url("../fonts/Jeffrson.woff") format("woff"), url("../fonts/jeffrson.ttf") format("truetype"), url("../fonts/Jeffrson.svg") format("svg"); 
+}
+/*endicottUnvers47Con is Univers 47 Condensed*/
+@font-face {
+	font-family: 'endicottUnivers47Con';
+	src: url("../fonts/univers47Con.eot");
+	src: url("../fonts/univers47Con.eot?#iefix") format("embedded-opentype"), url("../fonts/univers47Con.woff") format("woff"), url("../fonts/univers47Con.ttf") format("truetype"), url("../fonts/univers47Con.svg") format("svg"); 
+}
+/*endicottUnvers47Conobl is Univers 47 Condensed oblique*/
+@font-face {
+	font-family: 'endicottUnivers47ConObl';
+	src: url("../fonts/univers47ConOb.eot");
+	src: url("../fonts/univers47ConOb.eot?#iefix") format("embedded-opentype"), url("../fonts/univers47ConOb.woff") format("woff"), url("../fonts/univers47ConOb.ttf") format("truetype"), url("../fonts/univers47ConOb.svg") format("svg"); 
+}
+/*endicottUnvers57Con is Univers 57 Condensed*/
+@font-face {
+	font-family: 'endicottUnivers57Con';
+	src: url("../fonts/univers57Con.eot");
+	src: url("../fonts/univers57Con.eot?#iefix") format("embedded-opentype"), url("../fonts/univers57Con.woff") format("woff"), url("../fonts/univers57Con.ttf") format("truetype"), url("../fonts/univers57Con.svg") format("svg"); 
+}
+/*endicottUnvers57ConObl is Univers 57 Condensed Oblique*/
+@font-face {
+	font-family: 'endicottUnivers57ConObl';
+	src: url("../fonts/univers57ConOb.eot");
+	src: url("../fonts/univers57ConOb.eot?#iefix") format("embedded-opentype"), url("../fonts/univers57ConOb.woff") format("woff"), url("../fonts/univers57ConOb.ttf") format("truetype"), url("../fonts/univers57ConOb.svg") format("svg"); 
+}
+/*endicottUnvers65Con is Univers 65 Condensed*/
+@font-face {
+	font-family: 'endicottUnivers65Bold';
+	src: url("../fonts/Univers65Bold.eot");
+	src: url("../fonts/Univers65Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Univers65Bold.woff") format("woff"), url("../fonts/Univers65Bold.ttf") format("truetype"), url("../fonts/Univers65Bold.svg") format("svg"); 
+}
+/*endicottUnvers67Con is Univers 67 Condensed*/
+@font-face {
+	font-family: 'endicottUnivers67Bold';
+	src: url("../fonts/univers67Bold.eot");
+	src: url("../fonts/univers67Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/univers67Bold.woff") format("woff"), url("../fonts/univers67Bold.ttf") format("truetype"), url("../fonts/univers67Bold.svg") format("svg"); 
+}
+/*endicottUnvers75Black is Univers 75 Black*/
+@font-face {
+	font-family: 'endicottUnivers75Black';
+	src: url("../fonts/univers75Black.eot");
+	src: url("../fonts/univers75Black.eot?#iefix") format("embedded-opentype"), url("../fonts/univers75Black.woff") format("woff"), url("../fonts/univers75Black.ttf") format("truetype"), url("../fonts/univers75Black.svg") format("svg"); 
+}
+/*endicottUnvers73BlackExt is Univers 73 Black Extended*/
+@font-face {
+	font-family: 'endicottUnivers73BlackExt';
+	src: url("../fonts/univers73BlackExt.eot");
+	src: url("../fonts/univers73BlackExt.eot?#iefix") format("embedded-opentype"), url("../fonts/univers73BlackExt.woff") format("woff"), url("../fonts/univers73BlackExt.ttf") format("truetype"), url("../fonts/univers73BlackExt.svg") format("svg"); 
+}
+@font-face {
+	font-family: 'endicottUnivers53Ext';
+	src: url("../fonts/UniversLTPro-Ex.eot");
+	src: url("../fonts/UniversLTPro-Ex.eot?#iefix") format("embedded-opentype"), url("../fonts/UniversLTPro-Ex.woff") format("woff"), url("../fonts/UniversLTPro-Ex.ttf") format("truetype"), url("../fonts/UniversLTPro-Ex.svg") format("svg"); 
+}
+@font-face {
+	font-family: 'endicottUnivers45Light';
+	src: url("../fonts/univers45light.eot");
+	src: url("../fonts/univers45light.eot?#iefix") format("embedded-opentype"), url("../fonts/univers45light.woff") format("woff"), url("../fonts/univers45light.ttf") format("truetype"), url("../fonts/univers45light.svg") format("svg"); 
+}

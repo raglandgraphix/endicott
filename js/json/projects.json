@@ -496,40 +496,6 @@
 		"mainPhoto":"assets/faceBrick/asbjornson/asbjornson-1.jpg",
 		"photoAlbum":["assets/faceBrick/asbjornson/asbjornson-1.jpg","assets/faceBrick/asbjornson/asbjornson-2.jpg","assets/faceBrick/asbjornson/asbjornson-3.jpg","assets/faceBrick/asbjornson/asbjornson-4.jpg","assets/faceBrick/asbjornson/asbjornson-5.jpg"]
 },
-"46-09":{
-		"productName":"Face Brick",
-		"productType":"faceBrick",
-		"jobTitle":"46-09",
-		"jobName":"46-09 Eleventh Street",
-		"products":{
-			"product1":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"Modular Solid",
-			"texture":"Smooth",
-			"qty":"",
-			"orderNum":"196247"
-			}
-		},
-		"location":"4609 11th St.",
-		"city":"Long Island",
-		"stateLong":"New York",
-		"stateShort":"NY",
-		"distributor":"Belden Tri-State",
-		"architect":"GF55 Partners/ Len Fusco",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"2014",
-		"index":7,
-		"jobThumb":"assets/faceBrick/46-09/46-09-thumb.jpg",
-		"mainPhoto":"assets/faceBrick/46-09/46-09-1.jpg",
-		"photoAlbum":["assets/faceBrick/46-09/46-09-1.jpg","assets/faceBrick/46-09/46-09-2.jpg","assets/faceBrick/46-09/46-09-3.jpg","assets/faceBrick/46-09/46-09-4.jpg","assets/faceBrick/46-09/46-09-5.jpg"]
-},
 "four51":{
 		"productName":"Face Brick",
 		"productType":"faceBrick",
@@ -1000,49 +966,6 @@
 		"mainPhoto":"assets/faceBrick/metroAuraria/metroAuraria1.jpg",
 		"photoAlbum":["assets/faceBrick/metroAuraria/metroAuraria1.jpg","assets/faceBrick/metroAuraria/metroAuraria2.jpg","assets/faceBrick/metroAuraria/metroAuraria3.jpg","assets/faceBrick/metroAuraria/metroAuraria4.jpg","assets/faceBrick/metroAuraria/metroAuraria5.jpg"]
 	},
-"waterfront":{
-		"productName":"Face Brick",
-		"productType":"faceBrick",
-		"jobTitle":"waterfront",
-		"jobName":"Waterfront Park Place",
-		"products":{
-			"product1":{
-			"color":"Coppertone",
-			"colorSafe":"coppertone",
-			"size":"Utility",
-			"texture":"Smooth",
-			"qty":"244,100",
-			"orderNum":"93841"
-			},
-			"product2":{
-			"color":"Coppertone",
-			"colorSafe":"coppertone",
-			"size":"Shape",
-			"texture":"",
-			"qty":"N/A",
-			"orderNum":"93841"
-			}
-		},
-		"location":"222 Witherspoon St.",
-		"city":"Louisville",
-		"stateLong":"Kentucky",
-		"stateShort":"KY",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d2493.683073464989!2d-85.74972785536157!3d38.256825601022385!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886972bf73377393%3A0x3a4670eb283c2751!2sWaterfront+Park+Place!5e1!3m2!1sen!2sus!4v1527103933407",
-		"distributor":"Modern Concrete",
-		"architect":"Potter and Associates Architects",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"index":16,
-		"jobThumb":"assets/faceBrick/waterfront/waterfrontThumbSquare.jpg",
-		"mainPhoto":"assets/faceBrick/waterfront/waterfront1.jpg",
-		"photoAlbum":["assets/faceBrick/waterfront/waterfront1.jpg","assets/faceBrick/waterfront/waterfront2.jpg","assets/faceBrick/waterfront/waterfront3.jpg","assets/faceBrick/waterfront/waterfront4.jpg","assets/faceBrick/waterfront/waterfront5.jpg"]
-	},
 "creekSide":{
 		"productName":"Face Brick",
 		"productType":"faceBrick",
@@ -1276,49 +1199,6 @@
 		"mainPhoto":"assets/faceBrick/fordham/fordham1.jpg",
 		"photoAlbum":["assets/faceBrick/fordham/fordham1.jpg","assets/faceBrick/fordham/fordham2.jpg","assets/faceBrick/fordham/fordham3.jpg","assets/faceBrick/fordham/fordham4.jpg","assets/faceBrick/fordham/fordham5.jpg","assets/faceBrick/fordham/fordham6.jpg"]
 	},
-	"forumCredit":{
-		"productName":"Face Brick",
-		"productType":"faceBrick",
-		"jobTitle":"forumCredit",
-		"jobName":"Forum Credit Union",
-		"products":{
-			"product1":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"Modular",
-			"texture":"Smooth",
-			"qty":"",
-			"orderNum":"94270"
-			},
-			"product2":{
-				"color":"Sienna Ironspot",
-			"colorSafe":"sienna",
-				"size":"Modular",
-				"texture":"Smooth",
-				"qty":"",
-				"orderNum":"94270"
-			}
-		},
-		"location":"",
-		"city":"Fishers",
-		"stateLong":"Indiana",
-		"stateShort":"IN",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2040.2364655105087!2d-86.00442303312542!3d39.951412456319666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8814b487cbfa47b5%3A0x3f2515aff8e9c79c!2sCardon+At+Forum+Credit+Union!5e1!3m2!1sen!2sus!4v1527172057382",
-		"distributor":"Indiana Brick Corp.",
-		"architect":"Browning Day Mullins and Dierdorf",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"index":22,
-		"jobThumb":"assets/faceBrick/forumCredit/forumCreditThumbSquare.jpg",
-		"mainPhoto":"assets/faceBrick/forumCredit/forumCredit1.jpg",
-		"photoAlbum":["assets/faceBrick/forumCredit/forumCredit1.jpg","assets/faceBrick/forumCredit/forumCredit2.jpg","assets/faceBrick/forumCredit/forumCredit3.jpg","assets/faceBrick/forumCredit/forumCredit4.jpg","assets/faceBrick/forumCredit/forumCredit5.jpg"]
-	},
 	"spsu":{
 		"productName":"Face Brick",
 		"productType":"faceBrick",
@@ -1369,49 +1249,6 @@
 		"jobThumb":"assets/faceBrick/spsu/spsuThumbSquare.jpg",
 		"mainPhoto":"assets/faceBrick/spsu/spsu1.jpg",
 		"photoAlbum":["assets/faceBrick/spsu/spsu1.jpg","assets/faceBrick/spsu/spsu2.jpg","assets/faceBrick/spsu/spsu3.jpg","assets/faceBrick/spsu/spsu4.jpg","assets/faceBrick/spsu/spsu5.jpg","assets/faceBrick/spsu/spsu6.jpg","assets/faceBrick/spsu/spsu7.jpg"]
-	},
-	"huntersPoint":{
-		"productName":"Face Brick",
-		"productType":"faceBrick",
-		"jobTitle":"huntersPoint",
-		"jobName":"Hunters Point Campus",
-		"products":{
-			"product1":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"Utility",
-			"texture":"Smooth",
-			"qty":"42,000",
-			"orderNum":"174190"
-			},
-			"product2":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"Utility",
-			"texture":"Smooth",
-			"qty":"165,000",
-			"orderNum":"190357"
-			}
-		},
-		"location":"51st Ave ",
-		"city":"Queens",
-		"stateLong":"New York",
-		"stateShort":"NY",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1327.9692210690134!2d-73.96051908257562!3d40.74280175809751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2591809da0d89%3A0x1f6eedfa4d1def55!2s150+51st+Ave%2C+Long+Island+City%2C+NY+11101!5e1!3m2!1sen!2sus!4v1527172443177",
-		"distributor":"Belden Tri-State",
-		"architect":"FXFOWLE",
-		"structuralEngineer":"Ysreal A. Seinuk, PC",
-		"constructionManager":"--",
-		"facadeEngineer":"--",
-		"masonryContractor":"--",
-		"jobSize":"145,000 sf",
-		"cost":"--",
-		"masonryBudget":"--",
-		"completed":"2009",
-		"index":24,
-		"jobThumb":"assets/faceBrick/huntersPoint/huntPointThumbSquare.jpg",
-		"mainPhoto":"assets/faceBrick/huntersPoint/huntPointa1.jpg",
-		"photoAlbum":["assets/faceBrick/huntersPoint/huntPointa1.jpg","assets/faceBrick/huntersPoint/huntPoint6.jpg","assets/faceBrick/huntersPoint/huntPoint7.jpg","assets/faceBrick/huntersPoint/huntPoint8.jpg"]
 	},
 	"princeton":{
 		"productName":"Face Brick",
@@ -1534,100 +1371,6 @@
 		"jobThumb":"assets/faceBrick/moody/moodyThumbSquare.jpg",
 		"mainPhoto":"assets/faceBrick/moody/moody1.jpg",
 		"photoAlbum":["assets/faceBrick/moody/moody1.jpg","assets/faceBrick/moody/moody2.jpg","assets/faceBrick/moody/moody3.jpg","assets/faceBrick/moody/moody4.jpg","assets/faceBrick/moody/moody5.jpg","assets/faceBrick/moody/moody6.jpg","assets/faceBrick/moody/moody7.jpg","assets/faceBrick/moody/moody8.jpg"]
-	},
-	"metro":{
-		"productName":"Face Brick",
-		"productType":"faceBrick",
-		"jobTitle":"metro",
-		"jobName":"Metropolitan State Hospital",
-		"products":{
-			"product1":{
-			"color":"Dark Ironspot",
-			"colorSafe":"darkIronspot",
-			"size":"Modular",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":"N/A"
-			},
-			"product2":{
-				"color":"Dark Ironspot",
-			"colorSafe":"darkIronspot",
-				"size":"Shapes",
-				"texture":"Velour",
-				"qty":"",
-				"orderNum":""
-			},
-			"product3":{
-				"color":"Medium Ironspot #77",
-			"colorSafe":"medIS77",
-				"size":"Shapes",
-				"texture":"Velour",
-				"qty":"",
-				"orderNum":""
-			},
-			"product4":{
-				"color":"Medium Ironspot #77",
-			"colorSafe":"medIS77",
-				"size":"Modular",
-				"texture":"Velour",
-				"qty":"",
-				"orderNum":""
-			}
-		},
-		"location":"11401 S. Bloomfield Avenue",
-		"city":"Norwalk",
-		"stateLong":"California",
-		"stateShort":"CA",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d789.3042178881426!2d-118.0678766601063!3d33.92369303580676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDU1JzI1LjEiTiAxMTjCsDA0JzAyLjYiVw!5e1!3m2!1sen!2sus!4v1527173980637",
-		"distributor":"",
-		"architect":"Nadel Architects",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"index":28,
-		"jobThumb":"assets/faceBrick/metro/metroThumbSquare.jpg",
-		"mainPhoto":"assets/faceBrick/metro/metro1.jpg",
-		"photoAlbum":["assets/faceBrick/metro/metro1.jpg","assets/faceBrick/metro/metro2.jpg","assets/faceBrick/metro/metro3.jpg","assets/faceBrick/metro/metro4.jpg","assets/faceBrick/metro/metro5.jpg"]
-	},
-	"stPat":{
-		"productName":"Face Brick",
-		"productType":"faceBrick",
-		"jobTitle":"stPat",
-		"jobName":"St. Patricks",
-		"products":{
-			"product1":{
-			"color":"Medium Ironspot #77",
-			"colorSafe":"medIS77",
-			"size":"Closure",
-			"texture":"Artisan",
-			"qty":"",
-			"orderNum":"N/A"
-			}
-		},
-		"location":"3400 E 16th St",
-		"city":"Fremont",
-		"stateLong":"Nebraska",
-		"stateShort":"NE",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2862.1968658681167!2d-96.454718234834!3d41.44575332847099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8791674caef4d167%3A0x5f5ea997c1ec1846!2sSt+Patrick&#39;s+Catholic+Church!5e1!3m2!1sen!2sus!4v1527177152632",
-		"distributor":"",
-		"architect":"",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"index":29,
-		"jobThumb":"assets/faceBrick/stPat/stPatThumbSquare.jpg",
-		"mainPhoto":"assets/faceBrick/stPat/stPat1.jpg",
-		"photoAlbum":["assets/faceBrick/stPat/stPat1.jpg","assets/faceBrick/stPat/stPat2.jpg","assets/faceBrick/stPat/stPat3.jpg","assets/faceBrick/stPat/stPat4.jpg","assets/faceBrick/stPat/stPat5.jpg"]
 	},
 	"zmbrt":{
 		"productName":"Face Brick",
@@ -2700,48 +2443,6 @@
 		"mainPhoto":"assets/thinBrick/tcf/tcf1.jpg",
 		"photoAlbum":["assets/thinBrick/tcf/tcf1.jpg","assets/thinBrick/tcf/tcf2.jpg","assets/thinBrick/tcf/tcf3.jpg","assets/thinBrick/tcf/tcf4.jpg","assets/thinBrick/tcf/tcf5.jpg","assets/thinBrick/tcf/tcf6.jpg","assets/thinBrick/tcf/tcf7.jpg","assets/thinBrick/tcf/tcf8.jpg"]
 	},
-	"prudential":{
-		"productName":"Thin Brick",
-		"productType":"thinBrick",
-		"jobTitle":"prudential",
-		"jobName":"Prudential Center \"New Jersey Devils\"",
-		"products":{
-			"product1":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"Modular",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":""
-			},
-			"product2":{
-			"color":"Red Blend",
-			"colorSafe":"redBlend",
-			"size":"Modular",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":""
-			}
-		},
-		"location":"25 Lafayette Street",
-		"city":"Newark",
-		"stateLong":"New Jersey",
-		"stateShort":"NJ",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1406.0589300630772!2d-74.17130140073039!3d40.733580874668434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c253829a70f1d3%3A0x4d3efa6b5652a5ac!2sPrudential+Center!5e1!3m2!1sen!2sus!4v1528231372623",
-		"distributor":"Eastern Exterior Walls",
-		"architect":"HOK Sports & Morris Adjmi Architects",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"jobThumb":"assets/thinBrick/prudential/prudentialThumbSquare.jpg",
-		"mainPhoto":"assets/thinBrick/prudential/prudential1.jpg",
-		"photoAlbum":["assets/thinBrick/prudential/prudential1.jpg","assets/thinBrick/prudential/prudential2.jpg","assets/thinBrick/prudential/prudential3.jpg","assets/thinBrick/prudential/prudential4.jpg","assets/thinBrick/prudential/prudential5.jpg"]
-	},
 	"avera":{
 		"productName":"Thin Brick",
 		"productType":"thinBrick",
@@ -3039,57 +2740,6 @@
 		"mainPhoto":"assets/thinBrick/clearwater/clearwater1.jpg",
 		"photoAlbum":["assets/thinBrick/clearwater/clearwater1.jpg","assets/thinBrick/clearwater/clearwater2.jpg","assets/thinBrick/clearwater/clearwater3.jpg","assets/thinBrick/clearwater/clearwater4.jpg","assets/thinBrick/clearwater/clearwater5.jpg"]
 		},
-	"target":{
-		"productName":"Thin Brick",
-		"productType":"thinBrick",
-		"jobTitle":"target",
-		"jobName":"Target Headquarters",
-		"products":{
-			"product1":{
-			"color":"Desert Ironspot Dark",
-			"colorSafe":"desertDark",
-			"size":"Modular",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":"18101"
-			},
-			"product2":{
-			"color":"Golden Buff",
-			"colorSafe":"goldenBuff",
-			"size":"Modular",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":"18101"
-			},
-			"product3":{
-			"color":"Medium Ironspot #46",
-			"colorSafe":"medIS46",
-			"size":"Modular",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":"18101"
-			}
-		},
-		"location":"7000D Target Parkway",
-		"city":"Minneapolis",
-		"stateLong":"Minnesota",
-		"stateShort":"MN",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d442.0815672395638!2d-82.78992852245514!3d27.96091422934823!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1468566611869a41%3A0x12c95b357479e41!2sClearwater+Fire+%26+Rescue!5e1!3m2!1sen!2sus!4v1528232171435",
-		"distributor":"",
-		"architect":"",
-		"precaster":"N/A",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"jobThumb":"assets/thinBrick/target/targetThumbSquare.jpg",
-		"mainPhoto":"assets/thinBrick/target/target1.jpg",
-		"photoAlbum":["assets/thinBrick/target/target1.jpg","assets/thinBrick/target/target2.jpg","assets/thinBrick/target/target3.jpg","assets/thinBrick/target/target4.jpg","assets/thinBrick/target/target5.jpg"]
-		},
 	"binney":{
 		"productName":"Thin Brick",
 		"productType":"thinBrick",
@@ -3303,159 +2953,6 @@
 		"jobThumb":"assets/pavers/villanova/villanovaThumbSquare.jpg",
 		"mainPhoto":"assets/pavers/villanova/villanova1.jpg",
 		"photoAlbum":["assets/pavers/villanova/villanova1.jpg","assets/pavers/villanova/villanova2.jpg","assets/pavers/villanova/villanova3.jpg","assets/pavers/villanova/villanova4.jpg","assets/pavers/villanova/villanova5.jpg","assets/pavers/villanova/villanova6.jpg"]
-	},
-	"steelStacks":{
-		"productName":"Pavers",
-		"jobName":"Steel Stacks Renovation",
-		"productType":"pavers",
-		"jobTitle":"steelStacks",
-		"products":{
-			"product1":{
-			"color":"Dark Ironspot",
-			"colorSafe":"darkIronspot",
-			"size":"2-5/8\" X4 X 8 Rel/Lug",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":""
-			},
-			"product2":{
-			"color":"Medium Ironspot #46",
-			"colorSafe":"medIS46",
-			"size":"2-5/8\" X4 X 8 Rel/Lug",
-			"texture":"Velour",
-			"qty":"",
-			"orderNum":""
-			},
-			"product3":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"2-5/8\" X4 X 8 Permeable",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":""
-			}
-
-		},
-		"location":"101 Founders Way",
-		"city":"Bethlehem",
-		"stateLong":"Pennsylvania",
-		"stateShort":"PA",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2898.5247199230894!2d-75.3703390848284!3d40.61526605146519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c43e46482f1369%3A0x560b57175039e32d!2sSteelStacks!5e1!3m2!1sen!2sus!4v1528232806747",
-		"distributor":"Belden Tri-State",
-		"architect":"Wallace Roberts & Todd, LLC",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"jobThumb":"assets/pavers/steelStacks/steelStacksThumbSquare.jpg",
-		"mainPhoto":"assets/pavers/steelStacks/steelStacks1.jpg",
-		"photoAlbum":["assets/pavers/steelStacks/steelStacks1.jpg","assets/pavers/steelStacks/steelStacks2.jpg","assets/pavers/steelStacks/steelStacks3.jpg","assets/pavers/steelStacks/steelStacks4.jpg","assets/pavers/steelStacks/steelStacks5.jpg"]
-	},
-	"unl":{
-		"productName":"Pavers",
-		"jobName":"University of Nebraska",
-		"productType":"pavers",
-		"jobTitle":"unl",
-		"products":{
-			"product1":{
-			"color":"Medium Ironspot #77",
-			"colorSafe":"mis77",
-			"size":"2-5/8\" X4 X 8 Relieved edge",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":""
-			}
-
-		},
-		"location":"1400 R St.",
-		"city":"Lincoln",
-		"stateLong":"Nebraska",
-		"stateShort":"NE",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2395.5376945817115!2d-96.70319383118604!3d40.819803508094466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8796bea750a6cdbd%3A0x5d8d3c22f9423b8f!2sUniversity+of+Nebraska-Lincoln!5e1!3m2!1sen!2sus!4v1528233036479",
-		"distributor":"N/A",
-		"architect":"Hampton Commercial Construction",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"jobThumb":"assets/pavers/unl/unlThumbSquare.jpg",
-		"mainPhoto":"assets/pavers/unl/unl1.jpg",
-		"photoAlbum":["assets/pavers/unl/unl1.jpg","assets/pavers/unl/unl2.jpg","assets/pavers/unl/unl3.jpg","assets/pavers/unl/unl4.jpg"]
-	},
-	"lakin":{
-		"productName":"Pavers",
-		"jobName":"Charles Lakin Campus",
-		"productType":"pavers",
-		"jobTitle":"lakin",
-		"products":{
-			"product1":{
-			"color":"Burgundy Blend",
-			"colorSafe":"burgundyBlend",
-			"size":"2-5/8\" X4 X 8 Lugged",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":"177056"
-			},
-			"product2":{
-			"color":"Red Blend",
-			"colorSafe":"redBlend",
-			"size":"2-5/8\" X4 X 8 Lugged",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":"177056"
-			},
-			"product3":{
-			"color":"Manganese Ironspot",
-			"colorSafe":"manganese",
-			"size":"2-5/8\" X4 X 8 Lugged",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":"177056"
-			},
-			"product4":{
-			"color":"Medium Ironspot #77",
-			"colorSafe":"mis77",
-			"size":"2-5/8\" X4 X 8 Lugged",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":"177056"
-			},
-			"product5":{
-			"color":"Coppertone",
-			"colorSafe":"coppertone",
-			"size":"2-5/8\" X4 X 8 Lugged",
-			"texture":"Wire Cut",
-			"qty":"",
-			"orderNum":"177056"
-			}
-
-		},
-		"location":"15th & O St.",
-		"city":"Council Bluffs",
-		"stateLong":"Iowa",
-		"stateShort":"IA",
-		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d903.5930178629335!2d-95.86713360655548!3d41.26841428874611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x879385183dead0cf%3A0x3a10e79a2c683a0b!2sHeartland+Family+Service!5e1!3m2!1sen!2sus!4v1528233170619",
-		"distributor":"Lumbermens",
-		"architect":"Kehm Contractors",
-		"structuralEngineer":"",
-		"constructionManager":"",
-		"facadeEngineer":"",
-		"masonryContractor":"",
-		"jobSize":"",
-		"cost":"",
-		"masonryBudget":"",
-		"completed":"",
-		"jobThumb":"assets/pavers/lakin/lakinThumbSquare.jpg",
-		"mainPhoto":"assets/pavers/lakin/lakin1.jpg",
-		"photoAlbum":["assets/pavers/lakin/lakin1.jpg","assets/pavers/lakin/lakin2.jpg","assets/pavers/lakin/lakin3.jpg","assets/pavers/lakin/lakin4.jpg"]
 	},
 	"citadel":{
 		"productName":"Pavers",

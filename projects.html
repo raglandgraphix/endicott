@@ -1,26 +1,103 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>Add React in One Minute</title>
-  </head>
-  <body>
-
-    <h2>Add React in One Minute</h2>
-    <p>This page demonstrates using React with no build tooling.</p>
-    <p>React is loaded as a script tag.</p>
-
-    <!-- We will put our React component inside this div. -->
-    <div id="like_button_container"></div>
-
-    <!-- Load React. -->
-    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
-    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
-    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
-
-    <!-- Load our React component. -->
-    <script src="like_button.js"></script>
-
-  </body>
+<html lang="en" ng-app="projectLoad" >
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<title>Endicott Projects </title>
+		<meta name="description" content="Face brick, Thin brick, Pavers, and tile from Endicott Clay Products are the choice of top architects. Choose from our Face Brick, Thin Brick, Pavers, Tile. " />
+		<meta name="google-site-verification" content="PemXSIP_8nXP8tbIgt8LYTXIDJlbQtAhdT-FEWh2zJ8" />
+		<meta name="keywords" content="Brick, Face Brick, Endicott, architect, Thin Brick, Pavers, Tile " />
+		<meta name="robots" content="index, follow" />
+		<script type="text/javascript" src="node_modules/jquery/dist/jquery.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/endicottFonts.css" />
+		<script type="text/javascript" src="js/angular.min.js"></script>
+		<script type="text/javascript" src="js/angular-filter-master/dist/angular-filter.min.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/menu.v1.css" />
+		<script type="text/javascript" src="js/menu.v2.js"></script>	
+		<script type="text/javascript" src="js/project.js"></script>
+		<link type="text/css" rel="stylesheet" href="css/projects_main.css" />
+	</head>
+	<body ng-controller="projectCtrl"  >
+		<div id="holding_main">
+		<p class="pageDescriptionECP">PROJECTS -{{productCall[0]}}</p>
+		<div id="filterHolder">
+			<p id="filterText" >FILTER</p>
+		<select id="selectProduct" ng-click= "proj_colorDisplay()"  >
+			<option value="" selected="selected">All Products</option>
+		</select>
+		<select id="select2" ng-click= "proj_colorDisplay()" >
+			<option value=""  >All Colors</option>
+		</select>
+		</div>
+		<div id="projectWrapper">
+			<div class="project"  ng-repeat="otherJobs in myvar track by $index"  ng-attr-id="{{otherJobs.jobTitle}}" data-ng-mouseover="fred(otherJobs.jobTitle)" data-ng-mouseleave="fred2(otherJobs.jobTitle)" ng-click="getOther(otherJobs.productType,otherJobs.jobTitle)" current><h2 class="description" ng-cloak>{{otherJobs.jobName | uppercase}}<br /><span class="jobLocation">{{otherJobs.city}},{{otherJobs.stateShort}}</span></h2><img class="jobImage" ng-src="{{otherJobs.jobThumb}}" /></div>
+		</div>
+		</div>
+		<div id="copyright">Copywrite Endicott Clay Products Company</div>
+   	</body>
+	<script type="text/javascript">
+	if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
+		$('.description').css({'opacity':1});
+	}
+	var windowWidth = $("body").prop("clientWidth");
+	if(windowWidth<500){
+		$(".project").css({'margin-left':'0px','margin-right':'0px','width':'100%'});
+	}else if(windowWidth<750 && windowWidth>500){
+		var myMath =(windowWidth-12)/2;
+		var nextMath = (myMath/windowWidth)*100;
+		$(".project").css({'margin-left':'2px','margin-right':'2px','width':nextMath+"%"});
+	}else if(windowWidth>750 && windowWidth<940){
+		$(".project").css({'margin-left':'2px','margin-right':'2px','width':'32.5%'});
+	}else if(windowWidth>940 && windowWidth<1240){
+		$(".project").css({'margin-left':'2px','margin-right':'2px','width':'24.35%'});
+	}else if(windowWidth>1240){
+		$(".project").css({'margin-left':'2px','margin-right':'2px','width':'24.55%'});
+	};
+	$(".project").on('mouseover',function(){
+		var hover = $(this).attr("title");
+		$(".description",this).stop(true,false).animate({'opacity':1},500);
+	}).on('mouseout',function(){
+		$(".description",this).stop(true,false).animate({'opacity':0},500);
+	}).on('click',function(){
+		var whatsClicked = $(this).attr('id');
+		switch(whatsClicked){
+			case 'corp':window.location.href = "http://endicott.com/corporateVideo.html";
+			break;
+			case 'moody':window.location.href = "http://endicott.com/moodyVideo.html";
+			break;
+			case 'expansion':window.location.href = "http://www.endicott.com/videoKilnTeaser.html";
+			break;
+			case 'comingSoon':window.location.href = "http://www.endicott.com/videoKiln.html";
+			break;
+			case 'bnb':window.location.href = "http://endicott.com/videoBnB.html";
+			break;
+		};
+	});
+		$(window).on('resize',changesize);
+		function changesize(e){
+			var windowWidth = $("body").prop("clientWidth");
+			if(windowWidth<500){
+				$(".project").css({'margin-left':'0px','margin-right':'0px','width':'100%'});
+			}else if(windowWidth<750 && windowWidth>500){
+				var myMath =(windowWidth-12)/2;
+				var nextMath = (myMath/windowWidth)*100;
+				$(".project").css({'margin-left':'2px','margin-right':'2px','width':nextMath+"%"});
+			}else if(windowWidth>750 && windowWidth<940){
+				$(".project").css({'margin-left':'2px','margin-right':'2px','width':'32.5%'});
+			}else if(windowWidth>940 && windowWidth<1240){
+				$(".project").css({'margin-left':'2px','margin-right':'2px','width':'24.35%'});
+			}else if(windowWidth>1240){
+				$(".project").css({'margin-left':'2px','margin-right':'2px','width':'24.55%'});
+			};
+			$(".project").on('mouseover',function(){
+				var hover = $(this).attr("title");
+				$(".description",this).stop(true,false).animate({'opacity':1},500);
+			}).on('mouseout',function(){
+				$(".description",this).stop(true,false).animate({'opacity':0},500);
+			});
+		};		
+	</script>
 </html>
