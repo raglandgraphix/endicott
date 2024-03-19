@@ -1,0 +1,167 @@
+html,body{
+	overflow-x: hidden;
+	background-color:#ededed;
+	margin:0;
+}
+#job1{
+	cursor:pointer;
+	text-align:center;
+}
+#job1 img{
+display:block;
+
+}
+.jobTitle {
+	position: relative;
+  	float: left;
+  	color: black;
+  	z-index: 1;
+  	font-size: 1.3em;
+  	font-family: 'endicottUnivers47ConObl';
+  	width: 95%;
+  	text-align: center;
+  	padding-left: 25px;
+  	height: 30px;
+  	line-height: 0%;
+  	visibility: visible; 
+ }
+#controls{				
+	text-align:right;				
+	display:inline-block;
+	padding:0px;
+	margin:0px;
+	width:40%;
+}			
+#controls img{
+	vertical-align:middle;
+	display:inline-block;
+	margin:0px;
+	height: auto;
+	width:30px;
+}
+
+.mainPhoto{
+	opacity:1;
+	width:100%;
+	cursor:pointer;
+}			
+#controls p{
+	font-family:'endicottUnivers47ConObl';
+	vertical-align:middle;
+	display:inline-block;
+	color: black;
+	margin:0px;
+	margin-left:15px;
+}			
+.jobTitle{				
+	text-align:left;
+	width:55%;
+	display:inline-block;
+	line-height:1em;
+	
+}
+@media only screen and (max-width:670px){
+	.jobTitle{
+	font-size:.9em;
+	text-align:center;
+	width:85%;
+	line-height:1em;
+	height:auto;
+	
+	}
+	#loading{
+		width:125px;
+	}
+}
+
+/*#loading{
+	margin-left:25%;
+	margin-top:100px;
+	width:30%;
+}*/
+/* 
+This is the start of what is known for sure as good styling. the above needs to be gone through to make sure it it.
+*/
+	
+body{
+	overflow-x: hidden;
+	-moz-transform: translateZ(0);
+}
+#forward{
+	width:auto;
+	height:25px;
+
+}
+#vid{
+	margin-top:-125px;
+	left:0;
+}
+.carousel-caption{
+	position:relative;
+	background-color:rgba(0,0,0,1);
+	max-width:100%;
+	width:100%;
+	left:0;
+	margin-top:0px;
+	height:120px;
+	border-top:solid white medium;
+}
+.carousel-indicators{
+	background-color:rgba(50,50,50,0);
+
+}
+.carousel-item{
+	cursor:pointer;
+}
+.controlButton{
+	display:inline-block;
+	width:30px;
+	height:30px;
+	margin-left:30px;
+	cursor:pointer;
+	bottom:-30px;
+}
+.carousel-control-prev,.carousel-control-next{
+	top:20%;
+	z-index: 1;
+	height:50%;
+}
+.carousel-control-next-icon,.carousel-control-prev-icon{
+	width:30px;
+	height:30px;
+}
+.captionWhite{
+	color:white;
+	margin-bottom:50px;
+	font-family:"endicottUnivers47Con",Arial, Helvetica, sans-serif;
+	display:inline-block;
+	font-size: 2em;
+}
+#fallback_title{
+	opacity:0;
+}
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-right {  
+	  opacity: 0;
+	  transition: transform 2s ease, opacity 1s ease-out;
+  }
+.carousel-fade{
+	z-index: 0; /* set to -1 and prevent flicker on Safari----Changed to zero because it was covering the forward and reverse buttons. */
+}
+#invisiLearn{
+	position: absolute;
+	z-index: 1;
+	background-color:  rgba(255,255,255,0.25);
+	right: 50px;
+	left: 150px;
+	border-radius: 0px 0px 5px 5px;
+	width: 150px;
+	height: 35px;
+	color: black;
+	font-family: endicottUnivers47Con;
+	box-shadow: 5px 5px 5px black;
+	border-top:none;
+}
+#menu_wrapper{
+	position: static;
+}
